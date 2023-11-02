@@ -42,44 +42,9 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  # - block: experience
-  #   content:
-  #     title: Experience
-  #     # Date format for experience
-  #     #   Refer to https://wowchemy.com/docs/customization/#date-format
-  #     date_format: Jan 2006
-  #     # Experiences.
-  #     #   Add/remove as many `experience` items below as you like.
-  #     #   Required fields are `title`, `company`, and `date_start`.
-  #     #   Leave `date_end` empty if it's your current employer.
-  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-  #     items:
-  #       - title: CEO
-  #         company: GenCoin
-  #         company_url: ''
-  #         #company_logo: org-gc
-  #         location: California
-  #         date_start: '2021-01-01'
-  #         date_end: ''
-  #         description: |2-
-  #             Responsibilities include:
-
-  #             * Analysing
-  #             * Modelling
-  #             * Deploying
-  #       - title: Professor of Semiconductor Physics
-  #         company: University X
-  #         company_url: ''
-  #         #company_logo: org-x
-  #         location: California
-  #         date_start: '2016-01-01'
-  #         date_end: '2020-12-31'
-  #         description: Taught electronic engineering and researched semiconductor physics.
-  #   design:
-  #     columns: '2'
   - block: experience
     content:
-      title: Vita
+      title: Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -90,25 +55,61 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Master of Engineering
-          company: aaa #Department of Applied Physics, The University of Tokyo
+          company: Department of Applied Physics, The University of Tokyo
           company_url: ''
-          #company_logo: ap
-          location: Tokyo
-          date_start: '2022-04-01'
+          #company_logo: org-gc
+          location: California
+          date_start: '2021-01-01'
           date_end: ''
           description: |2-
-              Director: Prof. Yukitoshi Motome
+              Director Prof. Yukitoshi Motome
+
+              * Analysing
+              * Modelling
+              * Deploying
         - title: Bachelor of Engineering
-          company: aaa #Department of Applied Physics, The University of Tokyo
+          company: Department of Applied Physics, The University of Tokyo
           company_url: ''
-          location: Tokyo
-          date_start: '2018-04-01'
-          date_end: '2022-3-31'
+          #company_logo: org-x
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
           description: |2-
-              Director: Prof. Eiji Saitoh
-              Thesis: Magnetization state tomography by inverse spin-Hall effect
+              Director Prof. Eiji Saitoh
     design:
       columns: '2'
+  # - block: experience
+  #   content:
+  #     title: Vita
+  #     # Date format for experience
+  #     #   Refer to https://wowchemy.com/docs/customization/#date-format
+  #     date_format: Jan 2006
+  #     # Experiences.
+  #     #   Add/remove as many `experience` items below as you like.
+  #     #   Required fields are `title`, `company`, and `date_start`.
+  #     #   Leave `date_end` empty if it's your current employer.
+  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+  #     items:
+  #       - title: Master of Engineering
+  #         company: aaa #Department of Applied Physics, The University of Tokyo
+  #         company_url: ''
+  #         #company_logo: ap
+  #         location: Tokyo
+  #         date_start: '2022-04-01'
+  #         date_end: ''
+  #         description: |2-
+  #             Director: Prof. Yukitoshi Motome
+  #       - title: Bachelor of Engineering
+  #         company: aaa #Department of Applied Physics, The University of Tokyo
+  #         company_url: ''
+  #         location: Tokyo
+  #         date_start: '2018-04-01'
+  #         date_end: '2022-3-31'
+  #         description: |2-
+  #             Director: Prof. Eiji Saitoh
+  #             Thesis: Magnetization state tomography by inverse spin-Hall effect
+  #   design:
+  #     columns: '2'
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
