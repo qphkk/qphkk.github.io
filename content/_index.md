@@ -179,8 +179,23 @@ sections:
           organization: Department of Applied Physics, The University of Tokyo
           organization_url: https://www.ap.t.u-tokyo.ac.jp/en/
           title: Best Presentation Award
-    design:
-      columns: '1'
+    # design:
+    #   columns: '1'
+
+  # - block: collection
+  #   content:
+  #     title: Recent Publications
+  #     text: |-
+  #       {{% callout note %}}
+  #       Quickly discover relevant content by [filtering publications](./publication/).
+  #       {{% /callout %}}
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: true
+  #   design:
+  #     columns: '2'
+  #     view: citation
   # - block: collection
   #   id: posts
   #   content:
