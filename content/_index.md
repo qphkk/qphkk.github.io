@@ -92,30 +92,29 @@ sections:
         - date_end: '2027-03-31'
           date_start: '2024-04-01'
           description: ''
-          #icon: coursera
+          icon: dc1
           organization: Japan Society for the Promotion of Science
           organization_url: https://www.jsps.go.jp/english/
           title: JSPS research fellowshipts for young scientists (DC1)
-          #url: 'https://www.ipa.go.jp/jinzai/mitou/target/2023/gaiyou_yn-2.html'
         - date_end: '2024-02-29'
           date_start: '2023-06-01'
           description: |2-
-            Development of a fast machine learning method based on quantum reservoir computing
+            [Development of a fast machine learning method based on quantum reservoir computing](https://www.ipa.go.jp/jinzai/mitou/target/2023/gaiyou_yn-2.html)
 
             Project Manager: Prof. Naoki Yamamoto
-          #icon: coursera
+          icon: mitou
           organization: Information-technology Promotion Agency, Japan (IPA)
           organization_url: https://www.ipa.go.jp/en/index.html
           title: Mitou Target Program
-          url: 'https://www.ipa.go.jp/jinzai/mitou/target/2023/gaiyou_yn-2.html'
+          #url: 'https://www.ipa.go.jp/jinzai/mitou/target/2023/gaiyou_yn-2.html'
         - date_end: '2027-03-31'
           date_start: '2022-10-01'
-          description: World-leading Innovative Graduate Study program for Materials Research, Information, and Technology (MERIT-WINGS)
+          description: World-leading Innovative Graduate Study program for Materials Research, Information, and Technology ([MERIT-WINGS](https://www.merit.t.u-tokyo.ac.jp/merit/en/index.html))
           icon: merit
           organization: University of Tokyo
           organization_url: https://www.merit.t.u-tokyo.ac.jp/merit/en/index.html
           title: MERIT-WINGS
-          url: 'https://www.merit.t.u-tokyo.ac.jp/merit/en/index.html'
+          #url: 'https://www.merit.t.u-tokyo.ac.jp/merit/en/index.html'
     design:
       columns: '2'
   # - block: collection
