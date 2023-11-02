@@ -58,24 +58,21 @@ sections:
           company: Department of Applied Physics, The University of Tokyo
           company_url: ''
           #company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Tokyo
+          date_start: '2022-04-01'
           date_end: ''
           description: |2-
               Director Prof. Yukitoshi Motome
-
-              * Analysing
-              * Modelling
-              * Deploying
         - title: Bachelor of Engineering
           company: Department of Applied Physics, The University of Tokyo
           company_url: ''
           #company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          location: Tokyo
+          date_start: '2018-04-01'
+          date_end: '2022-03-31'
           description: |2-
               Director Prof. Eiji Saitoh
+              Thesis Magnetization state tomography by inverse spin-Hall effect
     design:
       columns: '2'
   # - block: experience
