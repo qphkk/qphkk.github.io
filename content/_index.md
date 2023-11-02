@@ -106,7 +106,6 @@ sections:
           organization: Information-technology Promotion Agency, Japan (IPA)
           organization_url: https://www.ipa.go.jp/en/index.html
           title: Mitou Target Program
-          #url: 'https://www.ipa.go.jp/jinzai/mitou/target/2023/gaiyou_yn-2.html'
         - date_end: '2027-03-31'
           date_start: '2022-10-01'
           description: World-leading Innovative Graduate Study program for Materials Research, Information, and Technology ([MERIT-WINGS](https://www.merit.t.u-tokyo.ac.jp/merit/en/index.html))
@@ -114,7 +113,6 @@ sections:
           organization: University of Tokyo
           organization_url: https://www.merit.t.u-tokyo.ac.jp/merit/en/index.html
           title: MERIT-WINGS
-          #url: 'https://www.merit.t.u-tokyo.ac.jp/merit/en/index.html'
         - date_end: '2021-03-31'
           date_start: '2020-04-01'
           description: International research internship at Georgia Institute of Technology
@@ -144,13 +142,36 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - date_end: '2027-03-31'
-          date_start: '2024-04-01'
-          description: ''
-          icon: dc1
-          organization: Japan Society for the Promotion of Science
-          organization_url: https://www.jsps.go.jp/english/
-          title: JSPS research fellowshipts for young scientists (DC1)
+        - date_end: 
+          date_start: '2023-07-06'
+          description: Best Poster Award, International Conference on Strongly Correlated Electron Systems 2023 [(SCES2023)](https://www.sces2023.org/)
+          organization: SCES2023
+          organization_url: https://www.sces2023.org
+          title: Best Poster Award
+        - date_end: 
+          date_start: '2022-03-25'
+          description: 
+          organization: School of Engineering, The University of Tokyo
+          organization_url: https://www.t.u-tokyo.ac.jp/en/foe
+          title: Dean's Award for Academic Excellence
+        - date_end: 
+          date_start: '2022-03-25'
+          description: 
+          organization: School of Engineering, The University of Tokyo
+          organization_url: https://www.t.u-tokyo.ac.jp/en/foe
+          title: Dean's Award for Outstanding Research
+        - date_end: 
+          date_start: '2022-03-25'
+          description: 
+          organization: Department of Applied Physics, The University of Tokyo
+          organization_url: https://www.ap.t.u-tokyo.ac.jp/en/
+          title: Outstanding Bachelor Thesis Award
+        - date_end: 
+          date_start: '2021-10-14'
+          description: Best Presentation in the Advanced Seminar in Applied Physics
+          organization: Department of Applied Physics, The University of Tokyo
+          organization_url: https://www.ap.t.u-tokyo.ac.jp/en/
+          title: Best Presentation Award
   # - block: collection
   #   id: posts
   #   content:
