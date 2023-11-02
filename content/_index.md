@@ -99,7 +99,7 @@ sections:
         - date_end: '2024-02-29'
           date_start: '2023-06-01'
           description: |2-
-            [Development of a fast machine learning method based on quantum reservoir computing](https://www.ipa.go.jp/jinzai/mitou/target/2023/gaiyou_yn-2.html)
+            Research project for the [development of a fast machine learning method based on quantum reservoir computing](https://www.ipa.go.jp/jinzai/mitou/target/2023/gaiyou_yn-2.html)
 
             Project Manager: Prof. Naoki Yamamoto
           icon: mitou
@@ -172,6 +172,8 @@ sections:
           organization: Department of Applied Physics, The University of Tokyo
           organization_url: https://www.ap.t.u-tokyo.ac.jp/en/
           title: Best Presentation Award
+    design:
+      columns: '2'
   # - block: collection
   #   id: posts
   #   content:
