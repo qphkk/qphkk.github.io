@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kaito Kobayashi / 小林 海翔
+title: Kaito Kobayashi
 
 # Name pronunciation (optional)
 name_pronunciation: Kaito Kobayashi
@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Graduate student in quantum many-body physics
+role: Graduate student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Motome group, Department of Applied Physics, The University of Tokyo
+  - name: Motome group, Univ. of Tokyo
     url: http://www.motome-lab.t.u-tokyo.ac.jp/index-e.html
 
 # Short bio (displayed in user profile at end of posts)
@@ -41,7 +41,7 @@ education:
       year: 2022-present
     - course: BACHELOR OF ENGINEERING
       institution: Department of Applied Physics, The University of Tokyo
-      year: 2022
+      year: 2018-2022
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -111,5 +111,5 @@ social:
 highlight_name: true
 ---
 
-Kaito Kobayashi is a second-year master's student in the Department of Physics at the University of Tokyo. His research focuses on the application of quantum information concepts to quantum many-body systems, with the goal of advancing our understanding of quantum physics. 
+Kaito Kobayashi is a second-year master's student in [(Motome group)(http://www.motome-lab.t.u-tokyo.ac.jp/index-e.html)], [(Department of Applied Physics)(https://www.ap.t.u-tokyo.ac.jp/en/)], [(the University of Tokyo)(https://www.u-tokyo.ac.jp/en/index.html)]. His research focuses on the application of quantum information concepts to quantum many-body systems, with the goal of advancing our understanding of quantum physics. 
 {style="text-align: justify;"}

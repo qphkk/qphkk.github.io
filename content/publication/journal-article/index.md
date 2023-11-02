@@ -1,13 +1,10 @@
 ---
-title: "An example journal article"
+title: "Thermally-robust spatiotemporal parallel reservoir computing by frequency filtering in frustrated magnets"
 authors:
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- Yukitoshi Motome
 date: "2015-09-01T00:00:00Z"
-doi: ""
+doi: "https://www.nature.com/articles/s41598-023-41757-3"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
