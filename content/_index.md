@@ -164,12 +164,12 @@ sections:
           organization: School of Engineering, The University of Tokyo
           organization_url: https://www.t.u-tokyo.ac.jp/en/foe
           title: Dean's Award for Outstanding Research
-        - date_end: 
-          date_start: '2022-03-25'
-          description: [物理工学科優秀卒業論文賞](https://www.ap.t.u-tokyo.ac.jp/themes/ap_t_u-tokyo/campus/pdf/2021/2021B.pdf)
-          organization: Department of Applied Physics, The University of Tokyo
-          organization_url: https://www.ap.t.u-tokyo.ac.jp/en/
-          title: Outstanding Bachelor Thesis Award
+        # - date_end: 
+        #   date_start: '2022-03-25'
+        #   description: [物理工学科優秀卒業論文賞](https://www.ap.t.u-tokyo.ac.jp/themes/ap_t_u-tokyo/campus/pdf/2021/2021B.pdf)
+        #   organization: Department of Applied Physics, The University of Tokyo
+        #   organization_url: https://www.ap.t.u-tokyo.ac.jp/en/
+        #   title: Outstanding Bachelor Thesis Award
         - date_end: 
           date_start: '2021-10-14'
           description: |2-
