@@ -89,7 +89,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - date_end: present
+        - date_end: '2027-03-31'
           date_start: '2024-04-01'
           description: ''
           #icon: coursera
@@ -100,17 +100,18 @@ sections:
         - date_end: '2024-02-29'
           date_start: '2023-06-01'
           description: |2-
-            'Development of a fast machine learning method based on quantum reservoir computing'
-            'Project Manager: Prof. Naoki Yamamoto'
+            Development of a fast machine learning method based on quantum reservoir computing
+
+            Project Manager: Prof. Naoki Yamamoto
           #icon: coursera
           organization: Information-technology Promotion Agency, Japan (IPA)
           organization_url: https://www.ipa.go.jp/en/index.html
           title: Mitou Target Program
           url: 'https://www.ipa.go.jp/jinzai/mitou/target/2023/gaiyou_yn-2.html'
-        - date_end: 
+        - date_end: '2027-03-31'
           date_start: '2022-10-01'
           description: World-leading Innovative Graduate Study program for Materials Research, Information, and Technology (MERIT-WINGS)
-          #icon: coursera
+          icon: merit
           organization: University of Tokyo
           organization_url: https://www.merit.t.u-tokyo.ac.jp/merit/en/index.html
           title: MERIT-WINGS
