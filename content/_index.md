@@ -57,7 +57,7 @@ sections:
         - title: Master of Engineering
           company: Department of Applied Physics, The University of Tokyo
           company_url: ''
-          #company_logo: ap
+          company_logo: ap
           location: Tokyo
           date_start: '2022-04-01'
           date_end: ''
@@ -66,7 +66,7 @@ sections:
         - title: Bachelor of Engineering
           company: Department of Applied Physics, The University of Tokyo
           company_url: ''
-          #company_logo: ap
+          company_logo: ap
           location: Tokyo
           date_start: '2018-04-01'
           date_end: '2022-03-31'
