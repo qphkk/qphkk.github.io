@@ -116,14 +116,14 @@ sections:
           title: MERIT-WINGS
           #url: 'https://www.merit.t.u-tokyo.ac.jp/merit/en/index.html'
         - date_end: '2021-03-31'
-          date_start: '2020-04-1'
+          date_start: '2020-04-01'
           description: International research internship at Georgia Institute of Technology
           icon: nakatani
           organization: Nakatani Foundation
           organization_url: https://www.nakatani-foundation.jp/en/
           title: Nakatani RIES
         - date_end: '2022-03-31'
-          date_start: '2018-04-1'
+          date_start: '2018-04-01'
           description: 
           icon: iizuka
           organization: Iizuka Takeshi Scholarship Foundation
