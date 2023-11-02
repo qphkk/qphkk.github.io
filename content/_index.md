@@ -180,7 +180,7 @@ sections:
           organization_url: https://www.ap.t.u-tokyo.ac.jp/en/
           title: Best Presentation Award
     design:
-      #columns: '1'
+      columns: '1'
   # - block: collection
   #   content:
   #     title: Recent Publications
