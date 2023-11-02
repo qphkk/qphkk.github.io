@@ -5,8 +5,8 @@ date: 2022-10-24
 type: landing
 
 sections:
-  # - block: hero
-  #   demo: true # Only display this section in the Wowchemy demo site
+  - block: hero
+    demo: true # Only display this section in the Wowchemy demo site
   #   content:
   #     title: Hugo Academic Theme
   #     # image:
