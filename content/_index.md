@@ -123,7 +123,9 @@ sections:
         - date_end: '2022-03-31'
           date_start: '2018-04-01'
           description: 
-          icon: iizuka
+          image:
+            filename: iizuka.svg
+          #icon: iizuka
           organization: Iizuka Takeshi Scholarship Foundation
           organization_url: https://www.iizuka-takeshi-ikuei.or.jp/
           title: Iizuka Takeshi Scholarships
