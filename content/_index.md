@@ -89,7 +89,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - date_end: 
+        - date_end: present
           date_start: '2024-04-01'
           description: ''
           #icon: coursera
