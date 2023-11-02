@@ -5,8 +5,8 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
-    demo: true # Only display this section in the Wowchemy demo site
+  # - block: hero
+  #   demo: true # Only display this section in the Wowchemy demo site
   #   content:
   #     title: Hugo Academic Theme
   #     # image:
@@ -42,7 +42,7 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: vita
+  - block: experience
     content:
       title: Vita
       # Date format for experience
