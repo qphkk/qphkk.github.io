@@ -3,7 +3,7 @@
 title: Kaito Kobayashi
 
 # Name pronunciation (optional)
-name_pronunciation: Kaito Kobayashi
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Kaito
@@ -111,5 +111,5 @@ social:
 highlight_name: true
 ---
 
-Kaito Kobayashi is a second-year master's student in [(Motome group)(http://www.motome-lab.t.u-tokyo.ac.jp/index-e.html)], [(Department of Applied Physics)(https://www.ap.t.u-tokyo.ac.jp/en/)], [(the University of Tokyo)(https://www.u-tokyo.ac.jp/en/index.html)]. His research focuses on the application of quantum information concepts to quantum many-body systems, with the goal of advancing our understanding of quantum physics. 
+Kaito Kobayashi is a second-year master's student in [Motome group](http://www.motome-lab.t.u-tokyo.ac.jp/index-e.html), [Department of Applied Physics](https://www.ap.t.u-tokyo.ac.jp/en/), [the University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html). His research focuses on the application of quantum information concepts to quantum many-body systems, with the goal of advancing our understanding of quantum physics. 
 {style="text-align: justify;"}
