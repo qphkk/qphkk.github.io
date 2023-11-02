@@ -115,15 +115,15 @@ sections:
           organization_url: https://www.merit.t.u-tokyo.ac.jp/merit/en/index.html
           title: MERIT-WINGS
           #url: 'https://www.merit.t.u-tokyo.ac.jp/merit/en/index.html'
-        - date_end: '2021-03'
-          date_start: '2020-04'
+        - date_end: '2021-03-31'
+          date_start: '2020-04-1'
           description: International research internship at Georgia Institute of Technology
           icon: nakatani
           organization: Nakatani Foundation
           organization_url: https://www.nakatani-foundation.jp/en/
           title: Nakatani RIES
-        - date_end: '2022-03'
-          date_start: '2018-04'
+        - date_end: '2022-03-31'
+          date_start: '2018-04-1'
           description: 
           icon: iizuka
           organization: Iizuka Takeshi Scholarship Foundation
@@ -131,6 +131,26 @@ sections:
           title: Iizuka Takeshi Scholarships
     design:
       columns: '2'
+  - block: accomplishments
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Awards' # 'Accomplish&shy;ments'
+      subtitle:
+      # Date format: https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - date_end: '2027-03-31'
+          date_start: '2024-04-01'
+          description: ''
+          icon: dc1
+          organization: Japan Society for the Promotion of Science
+          organization_url: https://www.jsps.go.jp/english/
+          title: JSPS research fellowshipts for young scientists (DC1)
   # - block: collection
   #   id: posts
   #   content:
