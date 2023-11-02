@@ -76,63 +76,71 @@ sections:
               Thesis: Magnetization state tomography by inverse spin-Hall effect
     design:
       columns: '2'
-  - block: accomplishments
+  - block: experience
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Fellowships, etc.' # 'Accomplish&shy;ments'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+  #     # Accomplishments.
+  #     #   Add/remove as many `item` blocks below as you like.
+  #     #   `title`, `organization`, and `date_start` are the required parameters.
+  #     #   Leave other parameters empty if not required.
+  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - date_end: '2027-03-31'
+        - title: JSPS research fellowshipts for young scientists (DC1)
+          company: Japan Society for the Promotion of Science
+          company_url: https://www.jsps.go.jp/english/
+          company_logo: dc1
+          date_end: '2027-03-31'
           date_start: '2024-04-01'
-          description: ''
-          image:
-            filename: dc1.svg
-          organization: Japan Society for the Promotion of Science
-          organization_url: https://www.jsps.go.jp/english/
-          title: JSPS research fellowshipts for young scientists (DC1)
-        - date_end: '2024-02-29'
-          date_start: '2023-06-01'
-          description: |2-
-            Research project for the [development of a fast machine learning method based on quantum reservoir computing](https://www.ipa.go.jp/jinzai/mitou/target/2023/gaiyou_yn-2.html)
+          # description: |2-
+          #     Director: Prof. Yukitoshi Motome
+  #       - date_end: '2027-03-31'
+  #         date_start: '2024-04-01'
+  #         description: ''
+  #         image:
+  #           filename: dc1.svg
+  #         organization: Japan Society for the Promotion of Science
+  #         organization_url: https://www.jsps.go.jp/english/
+  #         title: JSPS research fellowshipts for young scientists (DC1)
+  #       - date_end: '2024-02-29'
+  #         date_start: '2023-06-01'
+  #         description: |2-
+  #           Research project for the [development of a fast machine learning method based on quantum reservoir computing](https://www.ipa.go.jp/jinzai/mitou/target/2023/gaiyou_yn-2.html)
 
-            Project Manager: Prof. Naoki Yamamoto
-          image:
-            filename: mitou.svg
-          organization: Information-technology Promotion Agency, Japan (IPA)
-          organization_url: https://www.ipa.go.jp/en/index.html
-          title: Mitou Target Program
-        - date_end: '2027-03-31'
-          date_start: '2022-10-01'
-          description: World-leading Innovative Graduate Study program for Materials Research, Information, and Technology ([MERIT-WINGS](https://www.merit.t.u-tokyo.ac.jp/merit/en/index.html))
-          image:
-            filename: merit.svg
-          organization: University of Tokyo
-          organization_url: https://www.merit.t.u-tokyo.ac.jp/merit/en/index.html
-          title: MERIT-WINGS
-        - date_end: '2021-03-31'
-          date_start: '2020-04-01'
-          description: International research internship at Georgia Institute of Technology
-          icon: nakatani
-          organization: Nakatani Foundation
-          organization_url: https://www.nakatani-foundation.jp/en/
-          title: Nakatani RIES
-        - date_end: '2022-03-31'
-          date_start: '2018-04-01'
-          description: 
-          image:
-            filename: iizuka.svg
-          organization: Iizuka Takeshi Scholarship Foundation
-          organization_url: https://www.iizuka-takeshi-ikuei.or.jp/
-          title: Iizuka Takeshi Scholarships
-    design:
-      columns: '2'
+  #           Project Manager: Prof. Naoki Yamamoto
+  #         image:
+  #           filename: mitou.svg
+  #         organization: Information-technology Promotion Agency, Japan (IPA)
+  #         organization_url: https://www.ipa.go.jp/en/index.html
+  #         title: Mitou Target Program
+  #       - date_end: '2027-03-31'
+  #         date_start: '2022-10-01'
+  #         description: World-leading Innovative Graduate Study program for Materials Research, Information, and Technology ([MERIT-WINGS](https://www.merit.t.u-tokyo.ac.jp/merit/en/index.html))
+  #         image:
+  #           filename: merit.svg
+  #         organization: University of Tokyo
+  #         organization_url: https://www.merit.t.u-tokyo.ac.jp/merit/en/index.html
+  #         title: MERIT-WINGS
+  #       - date_end: '2021-03-31'
+  #         date_start: '2020-04-01'
+  #         description: International research internship at Georgia Institute of Technology
+  #         icon: nakatani
+  #         organization: Nakatani Foundation
+  #         organization_url: https://www.nakatani-foundation.jp/en/
+  #         title: Nakatani RIES
+  #       - date_end: '2022-03-31'
+  #         date_start: '2018-04-01'
+  #         description: 
+  #         image:
+  #           filename: iizuka.svg
+  #         organization: Iizuka Takeshi Scholarship Foundation
+  #         organization_url: https://www.iizuka-takeshi-ikuei.or.jp/
+  #         title: Iizuka Takeshi Scholarships
+  #   design:
+  #     columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
