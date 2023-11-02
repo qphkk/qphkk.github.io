@@ -166,7 +166,7 @@ sections:
           title: Dean's Award for Outstanding Research
         - date_end: 
           date_start: '2022-03-25'
-          #description: [物理工学科優秀卒業論文賞](https://www.ap.t.u-tokyo.ac.jp/themes/ap_t_u-tokyo/campus/pdf/2021/2021B.pdf)
+          description: 物理工学科優秀卒業論文賞
           organization: Department of Applied Physics, The University of Tokyo
           organization_url: https://www.ap.t.u-tokyo.ac.jp/en/
           title: Outstanding Bachelor Thesis Award
@@ -179,8 +179,8 @@ sections:
           organization: Department of Applied Physics, The University of Tokyo
           organization_url: https://www.ap.t.u-tokyo.ac.jp/en/
           title: Best Presentation Award
-    # design:
-    #   columns: '1'
+    design:
+      #columns: '1'
   # - block: collection
   #   content:
   #     title: Recent Publications
