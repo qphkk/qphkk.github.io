@@ -90,7 +90,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Master of Engineering
-          company: Department of Applied Physics, The University of Tokyo
+          company: aaa #Department of Applied Physics, The University of Tokyo
           company_url: ''
           #company_logo: ap
           location: Tokyo
@@ -99,7 +99,7 @@ sections:
           description: |2-
               Director: Prof. Yukitoshi Motome
         - title: Bachelor of Engineering
-          company: Department of Applied Physics, The University of Tokyo
+          company: aaa #Department of Applied Physics, The University of Tokyo
           company_url: ''
           location: Tokyo
           date_start: '2018-04-01'
