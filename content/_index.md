@@ -79,7 +79,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Experience' # 'Accomplish&shy;ments'
+      title: 'Fellowships, etc.' # 'Accomplish&shy;ments'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -89,15 +89,15 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
+        #- #certificate_url: https://www.coursera.org
+        - date_end: '2024-02-29'
+          date_start: '2023-06-01'
           description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
+          #icon: coursera
+          organization: Information-technology Promotion Agency, Japan (IPA)
+          organization_url: https://www.ipa.go.jp/en/index.html
+          title: Mitou target program
+          url: 'https://www.ipa.go.jp/jinzai/mitou/target/2023/gaiyou_yn-2.html'
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
