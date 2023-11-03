@@ -171,7 +171,7 @@ sections:
           #   物理工学特別輪講発表賞 (Best Presentation Award in the Advanced Seminar in Applied Physics)
 
           #   Advisor: Prof. Satoru Hayami
-          description: Prof. Satoru Hayami
+          description: Best Presentation Award in the Advanced Seminar in Applied Physics
           organization: Department of Applied Physics, The University of Tokyo
           organization_url: https://www.ap.t.u-tokyo.ac.jp/en/
           title: Best Presentation Award
