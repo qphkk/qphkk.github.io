@@ -94,9 +94,9 @@ social:
   - icon: arxiv
     icon_pack: ai
     link: https://arxiv.org/search/cond-mat?query=Kobayashi%2C+Kaito&searchtype=author&abstracts=show&order=-announced_date_first&size=50
-  # - icon: github
-  #   icon_pack: fab
-  #   link: https://github.com/gcushen
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-7869-3164
   # - icon: linkedin
   #   icon_pack: fab
   #   link: https://www.linkedin.com/
