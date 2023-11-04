@@ -128,6 +128,21 @@ sections:
           date_start: '2018-04-01'
   #   design:
   #     columns: '2'
+  - block: collection
+    content:
+      title: Recent Publications
+      text: [SEE ALL PUBLICATIONS >](./publication/)
+      #|-
+      #   {{% callout note %}}
+      #   Quickly discover relevant content by [filtering publications](./publication/).
+      #   {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -177,20 +192,6 @@ sections:
           title: Best Presentation Award
     design:
       columns: '1'
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
   # - block: collection
   #   id: posts
   #   content:
