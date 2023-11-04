@@ -3,11 +3,11 @@ title: "Thermally-robust spatiotemporal parallel reservoir computing by frequenc
 authors:
 - admin
 - Yukitoshi Motome
-date: "2023-10-10T00:00:00Z"
+date: "2023-02-28T00:00:00Z"
 doi: "10.1038/s41598-023-41757-3"
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-10-10T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -62,13 +62,3 @@ projects: []
 
 # slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/).
