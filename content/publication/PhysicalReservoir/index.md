@@ -3,8 +3,8 @@ title: "Thermally-robust spatiotemporal parallel reservoir computing by frequenc
 authors:
 - admin
 - Yukitoshi Motome
-date: "2023-10-10T00:00:00Z"
-doi: "https://www.nature.com/articles/s41598-023-41757-3"
+#date: "2023-10-10T00:00:00Z"
+doi: "10.1038/s41598-023-41757-3"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -16,7 +16,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Scientific Reports"
-publication_short: "Sci. Rep."
+publication_short: "Sci. Rep. 13, 15123 (2023)."
 
 abstract: Physical reservoir computing is a framework for brain-inspired information processing that utilizes nonlinear and high-dimensional dynamics in non-von-Neumann systems. In recent years, spintronic devices have been proposed for use as physical reservoirs, but their practical application remains a major challenge, mainly because thermal noise prevents them from retaining short-term memory, the essence of neuromorphic computing. Here, we propose a framework for spintronic physical reservoirs that exploits frequency domain dynamics in interacting spins. Through the effective use of frequency filters, we demonstrate, for a model of frustrated magnets, both robustness to thermal fluctuations and feasibility of frequency division multiplexing. This scheme can be coupled with parallelization in spatial domain even down to the level of a single spin, yielding a vast number of spatiotemporal computational units. Furthermore, the nonlinearity via the exchange interaction allows information processing among different frequency threads. Our findings establish a design principle for high-performance spintronic reservoirs with the potential for highly integrated devices.
 
