@@ -24,7 +24,8 @@ abstract: Physical reservoir computing is a framework for brain-inspired informa
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Reservoir Computing #Source Themes
+- Reservoir Computing
+- Magnetic Materials
 featured: false
 
 # links:
