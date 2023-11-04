@@ -33,15 +33,15 @@ interests:
   - Quantum information scrambling
   - Reservoir computing
 
-# Education to show in About widget
-# education:
-#   courses:
-#     - course: Master of Engineering
-#       institution: Department of Applied Physics, The University of Tokyo
-#       year: 2022 - present
-#     - course: Bachelor of Engineering
-#       institution: Department of Applied Physics, The University of Tokyo
-#       year: 2018 - 2022
+Education to show in About widget
+education:
+  courses:
+    - course: Master of Engineering
+      institution: Department of Applied Physics, The University of Tokyo
+      year: 2022 - present
+    - course: Bachelor of Engineering
+      institution: Department of Applied Physics, The University of Tokyo
+      year: 2018 - 2022
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
