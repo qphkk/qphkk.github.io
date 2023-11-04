@@ -1,10 +1,10 @@
 ---
-title: "Thermally-robust spatiotemporal parallel reservoir computing by frequency filtering in frustrated magnets"
+title: "Skyrmion and vortex crystals in the Hubbard model"
 authors:
 - admin
-- Yukitoshi Motome
-date: "2023-10-10T00:00:00Z"
-doi: "10.1038/s41598-023-41757-3"
+- Satoru Hayami
+date: "2022-10-20T00:00:00Z"
+doi: "10.1103/PhysRevB.106.L140406"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -15,22 +15,22 @@ doi: "10.1038/s41598-023-41757-3"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Scientific Reports"
-publication_short: "Sci. Rep. **13**, 15123 (2023)"
+publication: "Physical Review B"
+publication_short: "Phys. Rev. B **106**, L140406 (2022)"
 
-abstract: Physical reservoir computing is a framework for brain-inspired information processing that utilizes nonlinear and high-dimensional dynamics in non-von-Neumann systems. In recent years, spintronic devices have been proposed for use as physical reservoirs, but their practical application remains a major challenge, mainly because thermal noise prevents them from retaining short-term memory, the essence of neuromorphic computing. Here, we propose a framework for spintronic physical reservoirs that exploits frequency domain dynamics in interacting spins. Through the effective use of frequency filters, we demonstrate, for a model of frustrated magnets, both robustness to thermal fluctuations and feasibility of frequency division multiplexing. This scheme can be coupled with parallelization in spatial domain even down to the level of a single spin, yielding a vast number of spatiotemporal computational units. Furthermore, the nonlinearity via the exchange interaction allows information processing among different frequency threads. Our findings establish a design principle for high-performance spintronic reservoirs with the potential for highly integrated devices.
+abstract: A mutual interplay between the charge and spin degrees of freedom in itinerant magnets leads to a plethora of topological spin textures, such as magnetic skyrmion and vortex crystals, in both centrosymmetric and noncentrosymmetric hosts. Meanwhile, their stabilization has been extensively studied in a system including classical localized spins. We here study a realization of the skyrmion crystal in a centrosymmetric triangular-lattice Hubbard model, where the itinerant nature of electrons plays a more significant role. By performing self-consistent mean-field calculations, we find that two types of skyrmion crystals with spatially nonuniform charge modulations appear in the ground state at zero magnetic field. Moreover, we obtain another noncoplanar vortex crystal phase without a net scalar chirality in the vicinity of the skyrmion crystal phase. We show that the latter vortex crystal exhibits a topological phase transition to a different skyrmion phase in an applied magnetic field. Our results provide a possibility of skyrmion and vortex crystals in itinerant magnets without localized moments.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Reservoir Computing #Source Themes
+- Magnetic Materials #Source Themes
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://rdcu.be/dqgi4
+url_pdf: https://journals.aps.org/prb/pdf/10.1103/PhysRevB.106.L140406
 url_code: ''
 url_dataset: ''
 url_poster: ''
