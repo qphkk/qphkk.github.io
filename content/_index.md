@@ -131,7 +131,8 @@ sections:
   - block: collection
     content:
       title: Recent Publications
-      text: [SEE ALL PUBLICATIONS >](./publication/)
+      text: Quickly discover relevant content by [filtering publications](./publication/).
+      #[SEE ALL PUBLICATIONS >](./publication/)
       #|-
       #   {{% callout note %}}
       #   Quickly discover relevant content by [filtering publications](./publication/).
