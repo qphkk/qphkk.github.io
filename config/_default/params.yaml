@@ -7,8 +7,8 @@
 
 appearance:
   theme_day: minimal #Mr Robot #minimal
-  theme_night: minimal #Mr Robot #minimal
-  font: classic #minimal
+  theme_night: Dark #Mr Robot #minimal
+  font: minimal
   font_size: L
 
 # SEO
