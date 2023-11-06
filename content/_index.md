@@ -298,7 +298,6 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: 
       # Contact (add or remove contact options as necessary)
       email: kaito-kobayashi92[!αΤ!]g.ecc.u-tokyo.ac.jp
       address:
@@ -310,9 +309,9 @@ sections:
         country_code: JP
       directions: Faculty of Engineering Bldg.6
       # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:
-        latitude: '35.714177710886474'
-        longitude: '139.76097614116944'  
+      # coordinates:
+      #   latitude: '35.714177710886474'
+      #   longitude: '139.76097614116944'  
       text: |2-
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3239.490919213722!2d139.76109499999998!3d35.714143299999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188c31b6a0c8eb%3A0xb76f6e1eaadfecf6!2z44CSMTEzLTAwMzMg5p2x5Lqs6YO95paH5Lqs5Yy65pys6YO377yX5LiB55uu77yTIOW3pTblj7fppKg!5e0!3m2!1sja!2sjp!4v1699231888441!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
       # contact_links:
