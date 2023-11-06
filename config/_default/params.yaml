@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: 1950s #minimal
+  theme_night: 1950s #minimal
   font: minimal
   font_size: L
 
@@ -47,9 +47,9 @@ footer:
   copyright:
     notice: '© {year} Me. This work is licensed under {license}'
     license:
-      enable: false
+      enable: true
       allow_derivatives: false
-      share_alike: false
+      share_alike: true
       allow_commercial: false
 
 # Localization
