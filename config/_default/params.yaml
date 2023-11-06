@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: 1950s #minimal
-  theme_night: 1950s #minimal
+  theme_day: Ocean #minimal
+  theme_night: Ocean #minimal
   font: minimal
   font_size: L
 
