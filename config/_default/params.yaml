@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: Strawberry #minimal
-  theme_night: Strawberry #minimal
+  theme_day: Earth #minimal
+  theme_night: Earth #minimal
   font: minimal
   font_size: L
 
