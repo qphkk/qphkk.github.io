@@ -3,7 +3,7 @@ title: "Thermally-robust spatiotemporal parallel reservoir computing by frequenc
 authors:
 - admin
 - Yukitoshi Motome
-date: "2023-02-28T00:00:00Z"
+#date: "2023-02-28T00:00:00Z"
 doi: "10.1038/s41598-023-41757-3"
 
 # Schedule page publish date (NOT publication's date).
