@@ -139,7 +139,7 @@ sections:
     #headless: true
     design:
       columns: '1'
-      view: Showcase
+      view: Compact
   - block: portfolio
     id: press
     content:
