@@ -16,7 +16,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Physical Review B"
-publication_short: "Phys. Rev. B **106**, L140406 (2022)"
+publication_short: "Phys. Rev. B **106**, L140406"
 
 abstract: A mutual interplay between the charge and spin degrees of freedom in itinerant magnets leads to a plethora of topological spin textures, such as magnetic skyrmion and vortex crystals, in both centrosymmetric and noncentrosymmetric hosts. Meanwhile, their stabilization has been extensively studied in a system including classical localized spins. We here study a realization of the skyrmion crystal in a centrosymmetric triangular-lattice Hubbard model, where the itinerant nature of electrons plays a more significant role. By performing self-consistent mean-field calculations, we find that two types of skyrmion crystals with spatially nonuniform charge modulations appear in the ground state at zero magnetic field. Moreover, we obtain another noncoplanar vortex crystal phase without a net scalar chirality in the vicinity of the skyrmion crystal phase. We show that the latter vortex crystal exhibits a topological phase transition to a different skyrmion phase in an applied magnetic field. Our results provide a possibility of skyrmion and vortex crystals in itinerant magnets without localized moments.
 

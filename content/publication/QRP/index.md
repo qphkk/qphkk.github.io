@@ -16,7 +16,7 @@ publication_types: ["preprint"]
 
 # Publication name and optional abbreviated publication name.
 publication: "arXiv"
-publication_short: "arXiv preprint arXiv:2308.00898 (2023)"
+publication_short: "arXiv preprint arXiv:2308.00898"
 
 abstract: Quantum information scrambling is the dynamical process where initially localized quantum information spreads throughout an entire system. Here, by extending the idea of quantum reservoir computing, we propose the quantum reservoir probing (QRP) to diagnose quantum information scrambling. As a paradigmatic example, we investigate scrambling in a one-dimensional quantum Ising chain. We show that the QRP successfully distinguishes between quasiparticle-mediated information propagation in a free fermion system and correlation-mediated scrambling in a quantum chaotic system. Furthermore, via the scanning of read-out operators, the QRP can elucidate the dynamical distribution of quantum information in the Hilbert space, a distinct advantage over the conventional methods with out-of-time-order correlators and tripartite mutual information.
 

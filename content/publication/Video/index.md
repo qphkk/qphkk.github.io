@@ -16,7 +16,7 @@ publication_types: ["preprint"]
 
 # Publication name and optional abbreviated publication name.
 publication: "arXiv"
-publication_short: "arXiv preprint arXiv:2310.06497 (2023)"
+publication_short: "arXiv preprint arXiv:2310.06497"
 
 abstract: Nonlinear spin dynamics in magnetic materials offers a promising avenue for implementing physical reservoir computing, one of the most accomplished brain-inspired frameworks for information processing. In this study, we investigate the practical utility of magnetic physical reservoirs by assessing their performance in a video recognition task. Leveraging a recently developed spatiotemporal parallelization scheme, our reservoir achieves accurate classifications of previously provided images. Our findings pave the way for the development of visual sensors based on the magnetic physical reservoir computing.
 
