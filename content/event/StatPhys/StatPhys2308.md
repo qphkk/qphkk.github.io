@@ -1,5 +1,5 @@
 ---
-title: [StatPhys] Thermal robustness and spatiotemporal parallelization of physical reservoir computing in magnetic materials
+title: \[StatPhys\] Thermal robustness and spatiotemporal parallelization of physical reservoir computing in magnetic materials
 
 event: 28th International Conference on Statistical Physics, Statphys28 (StatPhys28)
 event_url: https://statphys28.org/
