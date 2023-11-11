@@ -148,6 +148,28 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: portfolio
+    content:
+      title: Recent & Upcoming Talks
+      text: |-
+        {{% callout note %}}
+        See all talks [here](./event/).
+        {{% /callout %}}
+      filter_button:
+        - name: Recent
+        tag: Recent
+        - name: Upcoming
+        tag: Upcoming
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 3
+      # Choose how many pages you would like to offset by
+      offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
+    headless: true
+    design:
+      columns: '2'
+      view: Compact
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
