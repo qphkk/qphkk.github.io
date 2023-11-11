@@ -31,6 +31,7 @@ bio:
 interests:
   - Quantum reservoir probing
   - Quantum information scrambling
+  - Quantum phase transition
   - Reservoir computing
 
 # Education to show in About widget
