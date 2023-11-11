@@ -152,9 +152,9 @@ sections:
     content:
       title: Presentations
       text: |-
-        {{% callout note %}}
+        #{{% callout note %}}
         See all talks [here](./event/).
-        {{% /callout %}}
+        #{{% /callout %}}
       filters:
         folders:
           - event
@@ -165,7 +165,7 @@ sections:
           tag: Domestic
       count: 2
       order: desc
-    headless: true
+    #headless: true
     design:
       columns: '2'
       view: Compact
