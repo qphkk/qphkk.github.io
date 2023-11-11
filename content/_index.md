@@ -151,7 +151,10 @@ sections:
   - block: portfolio
     content:
       title: Presentations
-      text: See all talks [here](./event/).
+      text: |- 
+        See all talks [here](./event/).
+        
+
       filters:
         folders:
           - event
