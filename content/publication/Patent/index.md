@@ -1,7 +1,7 @@
 ---
 title: "情報処理システム、情報処理方法およびプログラム"
 authors:
-- 小林 海翔 (**Kaito Kobayashi**)
+- 小林 海翔 (Kaito Kobayashi)
 - 求 幸年 (Yukitoshi Motome)
 date: "2023-02-02T00:00:00Z"
 
