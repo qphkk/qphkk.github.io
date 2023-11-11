@@ -124,7 +124,7 @@ sections:
       title: Presentations
       text: |- 
         {{% callout note %}}
-        See all talks [here](./event/).
+        See all presentations [here](./event/).
         {{% /callout %}}
       filters:
         folders:
