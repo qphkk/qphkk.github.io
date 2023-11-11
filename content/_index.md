@@ -130,7 +130,7 @@ sections:
   #     columns: '2'
   - block: collection
     content:
-      title: Recent Publications
+      title: Publications
       text: |-
         {{% callout note %}}
         See all publications [here](./publication/).
@@ -150,7 +150,7 @@ sections:
       view: citation
   - block: portfolio
     content:
-      title: Recent & Upcoming Talks
+      title: Presentations
       text: |-
         {{% callout note %}}
         See all talks [here](./event/).
@@ -161,14 +161,9 @@ sections:
       buttons:
         - name: International
           tag: International
-          count: 2
         - name: Domestic
           tag: Domestic
-      # Choose how many pages you would like to display (0 = all pages)
-      # count: 2
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
+      count: 2
       order: desc
     headless: true
     design:
