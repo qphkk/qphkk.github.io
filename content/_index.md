@@ -151,10 +151,7 @@ sections:
   - block: portfolio
     content:
       title: Presentations
-      text: |-
-        #{{% callout note %}}
-        See all talks [here](./event/).
-        #{{% /callout %}}
+      text: See all talks [here](./event/).
       filters:
         folders:
           - event
