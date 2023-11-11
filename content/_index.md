@@ -156,9 +156,9 @@ sections:
         See all talks [here](./event/).
         {{% /callout %}}
       filter_button:
-        name: Recent
+        - name: Recent
           tag: Recent
-        name: Upcoming
+        - name: Upcoming
           tag: Upcoming
       # Choose how many pages you would like to display (0 = all pages)
       count: 3
