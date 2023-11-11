@@ -211,6 +211,7 @@ sections:
           title: Best Presentation Award
     design:
       columns: '1'
+      view: List
   # - block: collection
   #   id: posts
   #   content:
