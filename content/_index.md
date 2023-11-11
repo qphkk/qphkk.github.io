@@ -139,7 +139,7 @@ sections:
     #headless: true
     design:
       columns: '1'
-      view: List
+      view: Showcase
   - block: portfolio
     id: press
     content:
@@ -211,7 +211,6 @@ sections:
           title: Best Presentation Award
     design:
       columns: '1'
-      view: List
   # - block: collection
   #   id: posts
   #   content:
