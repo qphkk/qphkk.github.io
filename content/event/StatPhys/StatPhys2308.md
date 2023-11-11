@@ -20,3 +20,4 @@ tags: [Recent, Oral, International]
 featured: false
 
 ---
+ K. Kobayashi and Y. Motome, "Thermal robustness and spatiotemporal parallelization of physical reservoir computing in magnetic materials", 28th International Conference on Statistical Physics, Statphys28 (StatPhys28), Tokyo, Aug. 2023.
