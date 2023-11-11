@@ -340,7 +340,7 @@ sections:
       #   latitude: '35.714177710886474'
       #   longitude: '139.76097614116944'  
       text: |2-
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3239.490919213722!2d139.76109499999998!3d35.714143299999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188c31b6a0c8eb%3A0xb76f6e1eaadfecf6!2z44CSMTEzLTAwMzMg5p2x5Lqs6YO95paH5Lqs5Yy65pys6YO377yX5LiB55uu77yTIOW3pTblj7fppKg!5e0!3m2!1sja!2sjp!4v1699231888441!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3239.489477283997!2d139.75839867605993!3d35.71417877257663!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188c31b1189969%3A0xc9429c48c85c9716!2sFaculty%20of%20Engineering%20Building%206!5e0!3m2!1sen!2sjp!4v1699689477620!5m2!1sen!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
       # contact_links:
       #   - icon: twitter
       #     icon_pack: fab
