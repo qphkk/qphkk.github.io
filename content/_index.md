@@ -155,6 +155,9 @@ sections:
         {{% callout note %}}
         See all talks [here](./event/).
         {{% /callout %}}
+      filters:
+        folders:
+          - event
       filter_button:
         - name: Recent
           tag: Recent
