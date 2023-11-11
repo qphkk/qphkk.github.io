@@ -168,7 +168,6 @@ sections:
       order: desc
     headless: true
     design:
-      columns: '2'
       view: Compact
   - block: accomplishments
     content:
