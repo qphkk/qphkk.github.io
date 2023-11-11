@@ -157,9 +157,9 @@ sections:
         {{% /callout %}}
       filter_button:
         name: Recent
-        tag: Recent
+          tag: Recent
         name: Upcoming
-        tag: Upcoming
+          tag: Upcoming
       # Choose how many pages you would like to display (0 = all pages)
       count: 3
       # Choose how many pages you would like to offset by
