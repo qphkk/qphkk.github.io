@@ -159,12 +159,13 @@ sections:
         folders:
           - event
       buttons:
-        - name: Upcoming
-          tag: Upcoming
-        - name: Recent
-          tag: Recent
+        - name: International
+          tag: International
+          count: 2
+        - name: Domestic
+          tag: Domestic
       # Choose how many pages you would like to display (0 = all pages)
-      count: 3
+      # count: 2
       # Choose how many pages you would like to offset by
       offset: 0
       # Page order: descending (desc) or ascending (asc) date.
