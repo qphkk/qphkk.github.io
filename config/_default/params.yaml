@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: Dark #minimal #Mr Robot #minimal
-  theme_night: Dark #Mr Robot #minimal
+  theme_night: my_theme #Dark #Mr Robot #minimal
   font: minimal
   font_size: L
 
