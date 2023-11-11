@@ -158,7 +158,7 @@ sections:
       filters:
         folders:
           - event
-      filter_button:
+      buttons:
         - name: Recent
           tag: Recent
         - name: Upcoming
