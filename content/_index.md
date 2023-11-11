@@ -140,6 +140,28 @@ sections:
     design:
       columns: '2'
       view: Compact
+  - block: portfolio
+    id: press
+    content:
+      title: Press, etc.
+      text: |- 
+        {{% callout note %}}
+        See all [here](./press/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - press
+      buttons:
+        - name: Japanese
+          tag: Japanese
+        - name: English
+          tag: English
+      count: 2
+      order: desc
+    #headless: true
+    design:
+      columns: '2'
+      view: Compact
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
