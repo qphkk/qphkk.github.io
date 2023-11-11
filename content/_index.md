@@ -152,9 +152,9 @@ sections:
     content:
       title: Presentations
       text: |- 
+        {{% callout note %}}
         See all talks [here](./event/).
-        
-
+        {{% /callout %}}
       filters:
         folders:
           - event
