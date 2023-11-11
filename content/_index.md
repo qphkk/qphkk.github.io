@@ -159,10 +159,10 @@ sections:
         folders:
           - event
       buttons:
-        - name: Recent
-          tag: Recent
         - name: Upcoming
           tag: Upcoming
+        - name: Recent
+          tag: Recent
       # Choose how many pages you would like to display (0 = all pages)
       count: 3
       # Choose how many pages you would like to offset by
