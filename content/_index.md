@@ -97,7 +97,7 @@ sections:
           date_start: '2018-04-01'
   #   design:
   #     columns: '2'
-  - block: collection
+  - block: portfolio
     id: publications
     content:
       title: Publications
