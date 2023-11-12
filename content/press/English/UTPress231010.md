@@ -2,7 +2,7 @@
 title: PRESS RELEASE, University of Tokyo 
 summary: 
 tags:
-  - Japanese
+  - English
 date: '2023-10-11T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
