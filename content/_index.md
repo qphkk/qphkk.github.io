@@ -144,10 +144,6 @@ sections:
     id: press
     content:
       title: Press, etc.
-      text: |- 
-        {{% callout note %}}
-        See all [here](./press/).
-        {{% /callout %}}
       filters:
         folders:
           - press
