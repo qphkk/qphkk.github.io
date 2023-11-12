@@ -143,7 +143,7 @@ sections:
   - block: portfolio
     id: press
     content:
-      title: Press, etc.
+      title: Press, Patent, etc.
       filters:
         folders:
           - press
