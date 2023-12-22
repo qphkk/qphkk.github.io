@@ -136,6 +136,7 @@ sections:
           tag: Domestic
       count: 2
       order: desc
+      exclude_upcoming: false
     #headless: true
     design:
       columns: '1'
