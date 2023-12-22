@@ -45,58 +45,6 @@ sections:
               Thesis: Magnetization state tomography by inverse spin-Hall effect
     design:
       columns: '2'
-  - block: experience
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Fellowships, etc.' # 'Accomplish&shy;ments'
-      subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-  #     # Accomplishments.
-  #     #   Add/remove as many `item` blocks below as you like.
-  #     #   `title`, `organization`, and `date_start` are the required parameters.
-  #     #   Leave other parameters empty if not required.
-  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: JSPS research fellowshipts for young scientists (DC1)
-          company: Japan Society for the Promotion of Science
-          company_url: https://www.jsps.go.jp/english/
-          company_logo: dc1
-          date_end: '2027-03-31'
-          date_start: '2024-04-01'
-        - title: Mitou Target Program
-          company: Information-technology Promotion Agency, Japan (IPA)
-          company_url: https://www.ipa.go.jp/en/index.html
-          company_logo: mitou
-          date_end: '2024-02-29'
-          date_start: '2023-06-01'
-          description: |2-
-            Research project for the [development of a fast machine learning method based on quantum reservoir computing](https://www.ipa.go.jp/jinzai/mitou/target/2023/gaiyou_yn-2.html)
-
-            Project Manager: Prof. Naoki Yamamoto
-        - title: MERIT-WINGS
-          company: University of Tokyo
-          company_url: https://www.merit.t.u-tokyo.ac.jp/merit/en/index.html
-          company_logo: merit
-          date_end: '2027-03-31'
-          date_start: '2022-10-01'
-          description: World-leading Innovative Graduate Study program for Materials Research, Information, and Technology ([MERIT-WINGS](https://www.merit.t.u-tokyo.ac.jp/merit/en/index.html))
-        - title: Nakatani RIES
-          company: Nakatani Foundation
-          company_url: https://www.nakatani-foundation.jp/en/
-          company_logo: nakatani
-          date_end: '2021-03-31'
-          date_start: '2020-04-01'
-          description: World-leading Innovative Graduate Study program for Materials Research, Information, and Technology ([MERIT-WINGS](https://www.merit.t.u-tokyo.ac.jp/merit/en/index.html))
-          description: International research internship at Georgia Institute of Technology
-        - title: Iizuka Takeshi Scholarships
-          company: Iizuka Takeshi Scholarship Foundation
-          company_url: https://www.iizuka-takeshi-ikuei.or.jp/
-          company_logo: iizuka
-          date_end: '2022-03-31'
-          date_start: '2018-04-01'
-  #   design:
-  #     columns: '2'
   - block: portfolio
     id: publications
     content:
@@ -158,6 +106,58 @@ sections:
     design:
       columns: '2'
       view: List
+    - block: experience
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Fellowships, etc.' # 'Accomplish&shy;ments'
+      subtitle:
+      # Date format: https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+  #     # Accomplishments.
+  #     #   Add/remove as many `item` blocks below as you like.
+  #     #   `title`, `organization`, and `date_start` are the required parameters.
+  #     #   Leave other parameters empty if not required.
+  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: JSPS research fellowshipts for young scientists (DC1)
+          company: Japan Society for the Promotion of Science
+          company_url: https://www.jsps.go.jp/english/
+          company_logo: dc1
+          date_end: '2027-03-31'
+          date_start: '2024-04-01'
+        - title: Mitou Target Program
+          company: Information-technology Promotion Agency, Japan (IPA)
+          company_url: https://www.ipa.go.jp/en/index.html
+          company_logo: mitou
+          date_end: '2024-02-29'
+          date_start: '2023-06-01'
+          description: |2-
+            Research project for the [development of a fast machine learning method based on quantum reservoir computing](https://www.ipa.go.jp/jinzai/mitou/target/2023/gaiyou_yn-2.html)
+
+            Project Manager: Prof. Naoki Yamamoto
+        - title: MERIT-WINGS
+          company: University of Tokyo
+          company_url: https://www.merit.t.u-tokyo.ac.jp/merit/en/index.html
+          company_logo: merit
+          date_end: '2027-03-31'
+          date_start: '2022-10-01'
+          description: World-leading Innovative Graduate Study program for Materials Research, Information, and Technology ([MERIT-WINGS](https://www.merit.t.u-tokyo.ac.jp/merit/en/index.html))
+        - title: Nakatani RIES
+          company: Nakatani Foundation
+          company_url: https://www.nakatani-foundation.jp/en/
+          company_logo: nakatani
+          date_end: '2021-03-31'
+          date_start: '2020-04-01'
+          description: World-leading Innovative Graduate Study program for Materials Research, Information, and Technology ([MERIT-WINGS](https://www.merit.t.u-tokyo.ac.jp/merit/en/index.html))
+          description: International research internship at Georgia Institute of Technology
+        - title: Iizuka Takeshi Scholarships
+          company: Iizuka Takeshi Scholarship Foundation
+          company_url: https://www.iizuka-takeshi-ikuei.or.jp/
+          company_logo: iizuka
+          date_end: '2022-03-31'
+          date_start: '2018-04-01'
+  #   design:
+  #     columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
