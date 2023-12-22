@@ -106,7 +106,7 @@ sections:
     design:
       columns: '2'
       view: List
-    - block: experience
+  - block: experience
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Fellowships, etc.' # 'Accomplish&shy;ments'
