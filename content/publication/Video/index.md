@@ -3,8 +3,8 @@ title: "Video recognition by physical reservoir computing in magnetic materials"
 authors:
 - admin
 - Yukitoshi Motome
-date: "2023-10-10T00:00:00Z"
-doi: "doi.org/10.48550/arXiv.2310.06497"
+date: "2023-12-29T00:00:00Z"
+doi: "doi.org/10.3938/NPSM.73.1155"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -12,11 +12,11 @@ doi: "doi.org/10.48550/arXiv.2310.06497"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["preprint"]
+publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv"
-publication_short: "arXiv preprint arXiv:2310.06497"
+publication: "NPSM"
+publication_short: "New Phys. Sae Mulli., *73*, 12. [Proceedings of SCES 2023]"
 
 abstract: Nonlinear spin dynamics in magnetic materials offers a promising avenue for implementing physical reservoir computing, one of the most accomplished brain-inspired frameworks for information processing. In this study, we investigate the practical utility of magnetic physical reservoirs by assessing their performance in a video recognition task. Leveraging a recently developed spatiotemporal parallelization scheme, our reservoir achieves accurate classifications of previously provided images. Our findings pave the way for the development of visual sensors based on the magnetic physical reservoir computing.
 
@@ -24,14 +24,13 @@ abstract: Nonlinear spin dynamics in magnetic materials offers a promising avenu
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Quantum Reservoir Probing
 - Reservoir Computing
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/pdf/2310.06497.pdf
+url_pdf: https://www.npsm-kps.org/journal/view.html?volume=73&number=12&spage=1155&year=2023
 url_code: ''
 url_dataset: ''
 url_poster: ''
