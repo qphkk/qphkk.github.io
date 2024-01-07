@@ -87,8 +87,7 @@ sections:
           company_logo: nakatani
           date_end: '2021-03-31'
           date_start: '2020-04-01'
-          description: World-leading Innovative Graduate Study program for Materials Research, Information, and Technology ([MERIT-WINGS](https://www.merit.t.u-tokyo.ac.jp/merit/en/index.html))
-          description: International research internship at Georgia Institute of Technology
+          description: International research internship at Georgia Institute of Technology (online)
         - title: Iizuka Takeshi Scholarships
           company: Iizuka Takeshi Scholarship Foundation
           company_url: https://www.iizuka-takeshi-ikuei.or.jp/
