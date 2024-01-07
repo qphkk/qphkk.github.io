@@ -226,14 +226,6 @@ sections:
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3239.489477283997!2d139.75839867605993!3d35.71417877257663!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188c31b1189969%3A0xc9429c48c85c9716!2sFaculty%20of%20Engineering%20Building%206!5e0!3m2!1sen!2sjp!4v1699689477620!5m2!1sen!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
       # Automatically link email and phone or display as text?
       autolink: false
-      # # Email form provider
-      # form:
-      #   provider: netlify
-      #   formspree:
-      #     id:
-      #   netlify:
-      #     # Enable CAPTCHA challenge to reduce spam?
-      #     captcha: false
     design:
       columns: '2'
 ---
