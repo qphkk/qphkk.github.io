@@ -43,7 +43,7 @@ sections:
           date_end: '2022-03-31'
           description: |2-
               Director: Prof. Eiji Saitoh
-
+              
               Thesis: 逆スピンホール効果による磁化状態トモグラフィ (Magnetization state tomography by inverse spin-Hall effect)
     design:
       columns: '2'
