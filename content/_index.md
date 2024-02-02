@@ -32,6 +32,8 @@ sections:
           date_end: ''
           description: |2-
               Director: Prof. Yukitoshi Motome
+
+              Thesis: *Reservoirs* of Insight: Harnessing and Probing Nature via Computational Paradigms
         - title: Bachelor of Engineering
           company: Department of Applied Physics, The University of Tokyo
           company_url: ''
@@ -42,7 +44,7 @@ sections:
           description: |2-
               Director: Prof. Eiji Saitoh
 
-              Thesis: Magnetization state tomography by inverse spin-Hall effect
+              Thesis: 逆スピンホール効果による磁化状態トモグラフィ (Magnetization state tomography by inverse spin-Hall effect)
     design:
       columns: '2'
   - block: experience
@@ -171,6 +173,12 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - date_end: 
+          date_start: '2024-02-02'
+          #description: 物理工学科優秀卒業論文賞
+          organization: Department of Applied Physics, The University of Tokyo
+          organization_url: https://www.ap.t.u-tokyo.ac.jp/en/
+          title: Outstanding Master Thesis Award
         - date_end: 
           date_start: '2023-07-06'
           description: Best Poster Award, International Conference on Strongly Correlated Electron Systems 2023 [(SCES2023)](https://www.sces2023.org/)
