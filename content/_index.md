@@ -136,7 +136,7 @@ sections:
         - name: Domestic
           tag: Domestic
         - name: Seminar
-          tag: Domestic
+          tag: Seminar
       count: 2
       order: desc
       exclude_upcoming: false
