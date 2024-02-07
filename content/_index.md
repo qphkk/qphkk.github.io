@@ -34,6 +34,7 @@ sections:
               Director: Prof. Yukitoshi Motome
 
               Thesis: *Reservoirs* of Insight: Harnessing and Probing Nature via Computational Paradigms
+              (Outstanding Master Thesis Award)
         - title: Bachelor of Engineering
           company: Department of Applied Physics, The University of Tokyo
           company_url: ''
@@ -45,6 +46,7 @@ sections:
               Director: Prof. Eiji Saitoh
               
               Thesis: 逆スピンホール効果による磁化状態トモグラフィ (Magnetization state tomography by inverse spin-Hall effect)
+              (Outstanding Bachelor Thesis Award)
     design:
       columns: '2'
   - block: experience
