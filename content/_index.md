@@ -183,7 +183,7 @@ sections:
           title: Outstanding Master Thesis Award
         - date_end: 
           date_start: '2023-07-06'
-          description: Best Poster Award, International Conference on Strongly Correlated Electron Systems 2023 [(SCES2023)](https://www.sces2023.org/)
+          description: Best Poster Award, International Conference on Strongly Correlated Electron Systems 2023
           organization: SCES2023
           organization_url: https://www.sces2023.org
           title: Best Poster Award
