@@ -4,7 +4,7 @@ authors:
 - admin
 - Yukitoshi Motome
 date: "2024-02-11T00:00:00Z"
-doi: "doi.org/10.48550/arXiv.2402.07097"
+doi: "10.48550/arXiv.2402.07097"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
