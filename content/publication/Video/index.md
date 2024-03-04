@@ -1,5 +1,5 @@
 ---
-title: "Video recognition by physical reservoir computing in magnetic materials"
+title: "Video Recognition by Physical Reservoir Computing in Magnetic Materials"
 authors:
 - admin
 - Yukitoshi Motome

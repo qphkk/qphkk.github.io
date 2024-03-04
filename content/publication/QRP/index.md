@@ -1,5 +1,5 @@
 ---
-title: "Quantum Reservoir Probing of Quantum Information Scrambling"
+title: "Quantum reservoir probing of quantum information scrambling"
 authors:
 - admin
 - Yukitoshi Motome
