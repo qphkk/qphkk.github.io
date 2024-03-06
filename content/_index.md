@@ -164,6 +164,7 @@ sections:
       columns: '2'
       view: List
   - block: accomplishments
+    id: awards
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Awards' # 'Accomplish&shy;ments'
