@@ -122,6 +122,10 @@ sections:
   - block: portfolio
     id: presentations
     content:
+      count: 2
+      order: desc
+      exclude_upcoming: false
+      active: true
       title: Presentations
       text: |- 
         {{% callout note %}}
@@ -137,9 +141,6 @@ sections:
           tag: Domestic
         - name: Seminar
           tag: Seminar
-      count: 2
-      order: desc
-      exclude_upcoming: false
     #headless: true
     design:
       columns: '1'
