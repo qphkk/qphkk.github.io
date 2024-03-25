@@ -23,12 +23,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Doctor of Engineering
+          company: Department of Applied Physics, The University of Tokyo
+          company_url: ''
+          company_logo: ap
+          location: Tokyo
+          date_start: '2024-04-01'
+          date_end: ''
+          description: |2-
+              Director: Prof. Yukitoshi Motome
         - title: Master of Engineering
           company: Department of Applied Physics, The University of Tokyo
           company_url: ''
           company_logo: ap
           location: Tokyo
           date_start: '2022-04-01'
+          date_end: '2024-03-31'
           date_end: ''
           description: |2-
               Director: Prof. Yukitoshi Motome

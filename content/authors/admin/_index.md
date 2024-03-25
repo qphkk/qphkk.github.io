@@ -37,9 +37,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: Doctor of Engineering
+      institution: Department of Applied Physics, The University of Tokyo
+      year: 2024 - present
     - course: Master of Engineering
       institution: Department of Applied Physics, The University of Tokyo
-      year: 2022 - present
+      year: 2022 - 2024
     - course: Bachelor of Engineering
       institution: Department of Applied Physics, The University of Tokyo
       year: 2018 - 2022
@@ -64,7 +67,7 @@ social:
 highlight_name: true
 ---
 
-Kaito Kobayashi is a second-year master's student in [Motome group](http://www.motome-lab.t.u-tokyo.ac.jp/index-e.html), [Department of Applied Physics](https://www.ap.t.u-tokyo.ac.jp/en/), [the University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html). His research focuses on the application of quantum information concepts to quantum many-body systems, with the goal of advancing our understanding of quantum physics. 
+Kaito Kobayashi is a first year Ph.D. student in [Motome group](http://www.motome-lab.t.u-tokyo.ac.jp/index-e.html), [Department of Applied Physics](https://www.ap.t.u-tokyo.ac.jp/en/), [the University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html). His research focuses on the application of quantum information concepts to quantum many-body systems, with the goal of advancing our understanding of quantum physics. 
 
-東京大学工学系研究科物理工学専攻求研究室修士２年の小林海翔です。物性物理と情報科学の境界領域に興味を持って理論的に研究しています。
+東京大学工学系研究科物理工学専攻求研究室博士１年の小林海翔です。物性物理と情報科学の境界領域に興味を持って理論的に研究しています。
 {style="text-align: justify;"}
