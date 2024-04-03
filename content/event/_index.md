@@ -8,6 +8,9 @@ cms_exclude: true
 #   3 = Card
 view: 2
 
+count: 2
+order: desc
+
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ''
