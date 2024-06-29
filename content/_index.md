@@ -73,11 +73,12 @@ sections:
           date_end: '2027-03-31'
           date_start: '2024-08-01'
           description: Advanced AI Talent Development to Lead the Next-Generation Intelligent Society ([BOOST NAIS](https://spring-gx.adm.s.u-tokyo.ac.jp/en/boost/))
-        - title: JSPS research fellowshipts for young scientists (DC1)
+        - title: JSPS research fellowships for young scientists (DC1)
           company: Japan Society for the Promotion of Science
           company_url: https://www.jsps.go.jp/english/
           date_end: '2024-07-31'
           date_start: '2024-04-01'
+          description: Research Fellowships for Young Scientists  ([DC1](https://www.jsps.go.jp/english/e-pd/))
         - title: Mitou Target Program
           company: Information-technology Promotion Agency, Japan (IPA)
           company_url: https://www.ipa.go.jp/en/index.html
