@@ -73,13 +73,11 @@ sections:
         - title: JSPS research fellowshipts for young scientists (DC1)
           company: Japan Society for the Promotion of Science
           company_url: https://www.jsps.go.jp/english/
-          company_logo: dc1
           date_end: '2027-03-31'
           date_start: '2024-04-01'
         - title: Mitou Target Program
           company: Information-technology Promotion Agency, Japan (IPA)
           company_url: https://www.ipa.go.jp/en/index.html
-          company_logo: mitou
           date_end: '2024-02-29'
           date_start: '2023-06-01'
           description: |2-
@@ -89,21 +87,18 @@ sections:
         - title: MERIT-WINGS
           company: University of Tokyo
           company_url: https://www.merit.t.u-tokyo.ac.jp/merit/en/index.html
-          company_logo: merit
           date_end: '2027-03-31'
           date_start: '2022-10-01'
           description: World-leading Innovative Graduate Study program for Materials Research, Information, and Technology ([MERIT-WINGS](https://www.merit.t.u-tokyo.ac.jp/merit/en/index.html))
         - title: Nakatani RIES
           company: Nakatani Foundation
           company_url: https://www.nakatani-foundation.jp/en/
-          company_logo: nakatani
           date_end: '2021-03-31'
           date_start: '2020-04-01'
           description: International research internship at Georgia Institute of Technology (online)
         - title: Iizuka Takeshi Scholarships
           company: Iizuka Takeshi Scholarship Foundation
           company_url: https://www.iizuka-takeshi-ikuei.or.jp/
-          company_logo: iizuka
           date_end: '2022-03-31'
           date_start: '2018-04-01'
   #   design:
