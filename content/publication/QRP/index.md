@@ -1,5 +1,5 @@
 ---
-title: "Quantum reservoir probing of quantum information scrambling"
+title: "Quantum reservoir probing: an inverse paradigm of quantum reservoir computing for exploring quantum many-body physics"
 authors:
 - admin
 - Yukitoshi Motome
@@ -18,7 +18,7 @@ publication_types: ["preprint"]
 publication: "arXiv"
 publication_short: "arXiv preprint arXiv:2308.00898"
 
-abstract: Quantum information scrambling is the dynamical process where initially localized quantum information spreads throughout an entire system. Here, by extending the idea of quantum reservoir computing, we propose the quantum reservoir probing (QRP) to diagnose quantum information scrambling. As a paradigmatic example, we investigate scrambling in a one-dimensional quantum Ising chain. We show that the QRP successfully distinguishes between quasiparticle-mediated information propagation in a free fermion system and correlation-mediated scrambling in a quantum chaotic system. Furthermore, via the scanning of read-out operators, the QRP can elucidate the dynamical distribution of quantum information in the Hilbert space, a distinct advantage over the conventional methods with out-of-time-order correlators and tripartite mutual information.
+abstract: Quantum reservoir computing (QRC) is a brain-inspired computational paradigm, exploiting natural dynamics of a quantum system for information processing. To date, a multitude of quantum systems have been utilized in the QRC, with diverse computational capabilities demonstrated accordingly. This study proposes a reciprocal research direction\: probing quantum systems themselves through their information processing performance in the QRC framework. Building upon this concept, here we develop quantum reservoir probing (QRP), an inverse extension of the QRC. The QRP establishes an operator-level linkage between physical properties and performance in computing. A systematic scan of this correspondence reveals intrinsic quantum dynamics of the reservoir system from computational and informational perspectives. Unifying quantum information and quantum matter, the QRP holds great promise as a potent tool for exploring various aspects of quantum many-body physics. In this study, we specifically apply it to analyze information propagation in a one-dimensional quantum Ising chain. We demonstrate that the QRP not only distinguishes between ballistic and diffusive information propagation, reflecting the system's dynamical characteristics, but also identifies system-specific information propagation channels, a distinct advantage over conventional methods.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
