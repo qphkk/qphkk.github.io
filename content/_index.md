@@ -78,7 +78,7 @@ sections:
           company_url: https://www.jsps.go.jp/english/
           date_end: '2024-07-31'
           date_start: '2024-04-01'
-          description: Research Fellowships for Young Scientists  ([DC1](https://www.jsps.go.jp/english/e-pd/)) / Declined
+          description: Research Fellowships for Young Scientists  ([DC1](https://www.jsps.go.jp/english/e-pd/)) 
         - title: Mitou Target Program
           company: Information-technology Promotion Agency, Japan (IPA)
           company_url: https://www.ipa.go.jp/en/index.html
