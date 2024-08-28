@@ -228,31 +228,31 @@ sections:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
       items:
-        - title: Visiting Student  Technical University of Munich
-            company: Frank Pollmann group
-            company_url: https://www.professoren.tum.de/pollmann-frank
-            date_end: '2024-12-06'
-            date_start: '2024-9-29'
+        # - title: Visiting Student @ Technical University of Munich
+        #     company: Frank Pollmann group
+        #     company_url: https://www.professoren.tum.de/pollmann-frank
+        #     date_end: '2024-12-06'
+        #     date_start: '2024-9-29'
         - title: Teaching Assistant (Statistical mechanics)
             company: UTokyo
             date_end: '2024-3-31'
             date_start: '2023-10-01'
-        - title: Teaching Assistant (Exercises in Mathematics and Mechanics I)
-          company: UTokyo
-          date_end: '2023-3-31'
-          date_start: '2022-10-01'
-        - title: Internship @ Preferred Networks
-          company: Preferred Networks
-          company_url: https://www.preferred.jp/ja/
-          date_end: '2022-9-30'
-          date_start: '2022-8-03'
-        - title: Part-time job @ SAS Institute Japan
-          company_url: https://www.sas.com/ja_jp/home.html
-          company: UTokyo
-          date_end: '2019-7-31'
-          date_start: '2018-6-01'
-  #   design:
-  #     columns: '2'
+        # - title: Teaching Assistant (Exercises in Mathematics and Mechanics I)
+        #   company: UTokyo
+        #   date_end: '2023-3-31'
+        #   date_start: '2022-10-01'
+        # - title: Internship @ Preferred Networks
+        #   company: Preferred Networks
+        #   company_url: https://www.preferred.jp/ja/
+        #   date_end: '2022-9-30'
+        #   date_start: '2022-8-03'
+        # - title: Part-time job @ SAS Institute Japan
+        #   company_url: https://www.sas.com/ja_jp/home.html
+        #   company: UTokyo
+        #   date_end: '2019-7-31'
+        #   date_start: '2018-6-01'
+    design:
+      columns: '2'
   - block: contact
     id: contact
     content:
