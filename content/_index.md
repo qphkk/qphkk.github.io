@@ -231,8 +231,8 @@ sections:
         - title: Visiting
           company: Frank Pollmann group
           company_url: https://spring-gx.adm.s.u-tokyo.ac.jp/en/boost/
-          date_end: '2024-12-06'
-          date_start: '2024-9-29'
+          date_end: '2027-03-31'
+          date_start: '2024-08-01'
           description: Advanced AI Talent Development to Lead the Next-Generation Intelligent Society ([BOOST NAIS](https://spring-gx.adm.s.u-tokyo.ac.jp/en/boost/))
   # - block: experience
   #   content:
