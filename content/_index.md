@@ -237,10 +237,10 @@ sections:
             company: UTokyo
             date_end: '2024-03-31'
             date_start: '2023-10-01'
-        - title: Teaching Assistant (Exercises in Mathematics and Mechanics I)
-          company: UTokyo
-          date_end: '2023-03-31'
-          date_start: '2022-10-01'
+        # - title: Teaching Assistant (Exercises in Mathematics and Mechanics I)
+        #   company: UTokyo
+        #   date_end: '2023-03-31'
+        #   date_start: '2022-10-01'
         - title: Internship @ Preferred Networks
           company: Preferred Networks
           company_url: https://www.preferred.jp/ja/
