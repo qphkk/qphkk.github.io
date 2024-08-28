@@ -255,8 +255,8 @@ sections:
         - title: Part-time job @ SAS Institute Japan
           company: SAS Institute Japan
           company_url: https://www.sas.com/ja_jp/home.html
-          date_end: '2027-03-31'
-          date_start: '2024-08-01'
+          date_end: '2019-07-31'
+          date_start: '2018-06-01'
           # date_end: '2019-7-31'
           # date_start: '2018-6-01'
     design:
