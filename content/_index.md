@@ -233,7 +233,7 @@ sections:
           company_url: https://www.professoren.tum.de/pollmann-frank
           date_end: '2024-12-06'
           date_start: '2024-9-29'
-          #description: Advanced AI Talent Development to Lead the Next-Generation Intelligent Society ([BOOST NAIS](https://spring-gx.adm.s.u-tokyo.ac.jp/en/boost/))
+          description: Advanced AI Talent Development to Lead the Next-Generation Intelligent Society ([BOOST NAIS](https://spring-gx.adm.s.u-tokyo.ac.jp/en/boost/))
         - title: BOOST NAIS
           company: University of Tokyo
           company_url: https://spring-gx.adm.s.u-tokyo.ac.jp/en/boost/
