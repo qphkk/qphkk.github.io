@@ -228,37 +228,29 @@ sections:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
       items:
-        # - title: Visiting
-        #   company: Frank Pollmann group
-        #   company_url: https://spring-gx.adm.s.u-tokyo.ac.jp/en/boost/
-        #   date_end: '2027-03-31'
-        #   date_start: '2024-08-01'
-        #   description: Advanced AI Talent Development to Lead the Next-Generation Intelligent Society ([BOOST NAIS](https://spring-gx.adm.s.u-tokyo.ac.jp/en/boost/))
-        # - title: Visiting Student @ Technical University of Munich
-        #     company: Frank Pollmann group
-        #     company_url: https://www.professoren.tum.de/pollmann-frank
-        #     date_end: '2024-12-06'
-        #     date_start: '2024-9-29'
-        # - title: Teaching Assistant (Statistical mechanics)
-        #     company: UTokyo
-        #     date_end: '2024-3-31'
-        #     date_start: '2023-10-01'
-        # - title: Teaching Assistant (Exercises in Mathematics and Mechanics I)
-        #   company: UTokyo
-        #   date_end: '2023-3-31'
-        #   date_start: '2022-10-01'
-        # - title: Internship @ Preferred Networks
-        #   company: Preferred Networks
-        #   company_url: https://www.preferred.jp/ja/
-        #   date_end: '2022-9-30'
-        #   date_start: '2022-8-03'
+        - title: Visiting Student @ Technical University of Munich
+            company: Frank Pollmann group
+            company_url: https://www.professoren.tum.de/pollmann-frank
+            date_end: '2024-12-06'
+            date_start: '2024-09-29'
+        - title: Teaching Assistant (Statistical Mechanics)
+            company: UTokyo
+            date_end: '2024-03-31'
+            date_start: '2023-10-01'
+        - title: Teaching Assistant (Exercises in Mathematics and Mechanics I)
+          company: UTokyo
+          date_end: '2023-03-31'
+          date_start: '2022-10-01'
+        - title: Internship @ Preferred Networks
+          company: Preferred Networks
+          company_url: https://www.preferred.jp/ja/
+          date_end: '2022-09-30'
+          date_start: '2022-08-03'
         - title: Part-time job @ SAS Institute Japan
           company: SAS Institute Japan
           company_url: https://www.sas.com/ja_jp/home.html
           date_end: '2019-07-31'
           date_start: '2018-06-01'
-          # date_end: '2019-7-31'
-          # date_start: '2018-6-01'
     design:
       columns: '2'
   - block: contact
