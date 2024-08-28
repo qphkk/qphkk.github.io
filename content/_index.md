@@ -228,7 +228,7 @@ sections:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
       items:
-        - title: BOOST NAIS
+        - title: Visiting Student @ Technical University of Munich
           company: University of Tokyo
           company_url: https://spring-gx.adm.s.u-tokyo.ac.jp/en/boost/
           date_end: '2027-03-31'
