@@ -227,13 +227,8 @@ sections:
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
-  #     # Accomplishments.
-  #     #   Add/remove as many `item` blocks below as you like.
-  #     #   `title`, `organization`, and `date_start` are the required parameters.
-  #     #   Leave other parameters empty if not required.
-  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Visiting Student @ Technical University of Munich
+        - title: Visiting Student  Technical University of Munich
             company: Frank Pollmann group
             company_url: https://www.professoren.tum.de/pollmann-frank
             date_end: '2024-12-06'
