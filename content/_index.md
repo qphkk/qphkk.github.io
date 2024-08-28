@@ -223,20 +223,34 @@ sections:
   - block: experience
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Experience' # 'Accomplish&shy;ments'
+      title: 'Exp' # 'Accomplish&shy;ments'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
       items:
+        - title: BOOST NAIS
+          company: University of Tokyo
+          company_url: https://spring-gx.adm.s.u-tokyo.ac.jp/en/boost/
+          date_end: '2027-03-31'
+          date_start: '2024-08-01'
+          description: Advanced AI Talent Development to Lead the Next-Generation Intelligent Society ([BOOST NAIS](https://spring-gx.adm.s.u-tokyo.ac.jp/en/boost/))
+  # - block: experience
+  #   content:
+  #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+  #     title: 'Experience' # 'Accomplish&shy;ments'
+  #     subtitle:
+  #     # Date format: https://wowchemy.com/docs/customization/#date-format
+  #     date_format: Jan 2006
+  #     items:
         # - title: Visiting Student @ Technical University of Munich
         #     company: Frank Pollmann group
         #     company_url: https://www.professoren.tum.de/pollmann-frank
         #     date_end: '2024-12-06'
         #     date_start: '2024-9-29'
-        - title: Teaching Assistant (Statistical mechanics)
-            company: UTokyo
-            date_end: '2024-3-31'
-            date_start: '2023-10-01'
+        # - title: Teaching Assistant (Statistical mechanics)
+        #     company: UTokyo
+        #     date_end: '2024-3-31'
+        #     date_start: '2023-10-01'
         # - title: Teaching Assistant (Exercises in Mathematics and Mechanics I)
         #   company: UTokyo
         #   date_end: '2023-3-31'
