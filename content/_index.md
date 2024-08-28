@@ -275,5 +275,5 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: false
     design:
-      columns: '1'
+      columns: '2'
 ---
