@@ -228,7 +228,7 @@ sections:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
       items:
-        - title: Visiting Student @ Technical University of Munich
+        - title: Visiting
           company: Frank Pollmann group
           company_url: https://spring-gx.adm.s.u-tokyo.ac.jp/en/boost/
           date_end: '2024-12-06'
