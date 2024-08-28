@@ -228,20 +228,12 @@ sections:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
       items:
-        - title: Visiting
-          company: Frank Pollmann group
-          company_url: https://spring-gx.adm.s.u-tokyo.ac.jp/en/boost/
-          date_end: '2027-03-31'
-          date_start: '2024-08-01'
-          description: Advanced AI Talent Development to Lead the Next-Generation Intelligent Society ([BOOST NAIS](https://spring-gx.adm.s.u-tokyo.ac.jp/en/boost/))
-  # - block: experience
-  #   content:
-  #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-  #     title: 'Experience' # 'Accomplish&shy;ments'
-  #     subtitle:
-  #     # Date format: https://wowchemy.com/docs/customization/#date-format
-  #     date_format: Jan 2006
-  #     items:
+        # - title: Visiting
+        #   company: Frank Pollmann group
+        #   company_url: https://spring-gx.adm.s.u-tokyo.ac.jp/en/boost/
+        #   date_end: '2027-03-31'
+        #   date_start: '2024-08-01'
+        #   description: Advanced AI Talent Development to Lead the Next-Generation Intelligent Society ([BOOST NAIS](https://spring-gx.adm.s.u-tokyo.ac.jp/en/boost/))
         # - title: Visiting Student @ Technical University of Munich
         #     company: Frank Pollmann group
         #     company_url: https://www.professoren.tum.de/pollmann-frank
@@ -260,11 +252,11 @@ sections:
         #   company_url: https://www.preferred.jp/ja/
         #   date_end: '2022-9-30'
         #   date_start: '2022-8-03'
-        # - title: Part-time job @ SAS Institute Japan
-        #   company_url: https://www.sas.com/ja_jp/home.html
-        #   company: UTokyo
-        #   date_end: '2019-7-31'
-        #   date_start: '2018-6-01'
+        - title: Part-time job @ SAS Institute Japan
+          company_url: https://www.sas.com/ja_jp/home.html
+          company: UTokyo
+          date_end: '2019-7-31'
+          date_start: '2018-6-01'
     design:
       columns: '2'
   - block: contact
