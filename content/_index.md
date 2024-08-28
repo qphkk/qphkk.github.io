@@ -228,11 +228,11 @@ sections:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
       items:
-        # - title: Visiting Student @ Technical University of Munich
-        #     company: Frank Pollmann group
-        #     company_url: https://www.professoren.tum.de/pollmann-frank
-        #     date_end: '2024-12-06'
-        #     date_start: '2024-09-29'
+        - title: Visiting Student @ Technical University of Munich
+          company: Frank Pollmann group
+          company_url: https://www.professoren.tum.de/pollmann-frank
+          date_end: '2024-12-06'
+          date_start: '2024-09-29'
         - title: Teaching Assistant (Statistical Mechanics)
           company: UTokyo
           date_end: '2024-03-31'
