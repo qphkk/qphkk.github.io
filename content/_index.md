@@ -220,6 +220,44 @@ sections:
           title: Best Presentation Award
     design:
       columns: '1'
+  - block: experience
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Experience' # 'Accomplish&shy;ments'
+      subtitle:
+      # Date format: https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+  #     # Accomplishments.
+  #     #   Add/remove as many `item` blocks below as you like.
+  #     #   `title`, `organization`, and `date_start` are the required parameters.
+  #     #   Leave other parameters empty if not required.
+  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Visiting Student @ Technical University of Munich
+            company: Frank Pollmann group
+            company_url: https://www.professoren.tum.de/pollmann-frank
+            date_end: '2024-12-06'
+            date_start: '2024-9-29'
+        - title: Teaching Assistant (Statistical mechanics)
+            company: UTokyo
+            date_end: '2024-3-31'
+            date_start: '2023-10-01'
+        - title: Teaching Assistant (Exercises in Mathematics and Mechanics I)
+          company: UTokyo
+          date_end: '2023-3-31'
+          date_start: '2022-10-01'
+        - title: Internship @ Preferred Networks
+          company: Preferred Networks
+          company_url: https://www.preferred.jp/ja/
+          date_end: '2022-9-30'
+          date_start: '2022-8-03'
+        - title: Part-time job @ SAS Institute Japan
+          company_url: https://www.sas.com/ja_jp/home.html
+          company: UTokyo
+          date_end: '2019-7-31'
+          date_start: '2018-6-01'
+  #   design:
+  #     columns: '2'
   - block: contact
     id: contact
     content:
@@ -240,5 +278,5 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: false
     design:
-      columns: '2'
+      columns: '1'
 ---
