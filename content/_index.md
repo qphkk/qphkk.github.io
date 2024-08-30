@@ -38,7 +38,6 @@ sections:
           location: Tokyo
           date_start: '2022-04-01'
           date_end: '2024-03-31'
-          date_end: ''
           description: |2-
               Director: Prof. Yukitoshi Motome
 
@@ -168,16 +167,9 @@ sections:
   - block: accomplishments
     id: awards
     content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Awards' # 'Accomplish&shy;ments'
       subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - date_end: 
           date_start: '2024-02-02'
