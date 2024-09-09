@@ -172,8 +172,13 @@ sections:
       date_format: Jan 2006
       items:
         - date_end: 
+          date_start: '2024-09-09'
+          organization: MERIT-WINGS
+          description: Best Poster Award, MERIT Camp 2024
+          title: Best Poster Award
+        - date_end: 
           date_start: '2024-02-02'
-          #description: 物理工学科優秀卒業論文賞
+          #description: 物理工学科修論賞
           organization: Department of Applied Physics, The University of Tokyo
           organization_url: https://www.ap.t.u-tokyo.ac.jp/en/
           title: Outstanding Master Thesis Award
