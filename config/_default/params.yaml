@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Kaito Kobayashi. This work is licensed under {license}. Last update: Aug 28, 2024.'
+    notice: '© {year} Kaito Kobayashi. This work is licensed under {license}. Last update: Sep 19, 2024.'
     license:
       enable: true
       allow_derivatives: false
