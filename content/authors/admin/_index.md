@@ -33,6 +33,7 @@ interests:
   - Quantum information scrambling
   - Quantum phase transition
   - Reservoir computing
+  - Tensor Network
 
 # Education to show in About widget
 education:
