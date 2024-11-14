@@ -30,7 +30,6 @@ bio:
 # Interests to show in About widget
 interests:
   - Quantum reservoir probing
-  - Quantum information scrambling
   - Quantum phase transition
   - Reservoir computing
   - Tensor Network
