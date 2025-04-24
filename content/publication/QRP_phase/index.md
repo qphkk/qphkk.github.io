@@ -3,7 +3,7 @@ title: "Quantum reservoir probing of quantum phase transitions"
 authors:
 - admin
 - Yukitoshi Motome
-date: "2025-04-25T00:00:00Z"
+date: "2025-04-24T00:00:00Z"
 doi: "10.1038/s41467-025-58751-0"
 
 # Schedule page publish date (NOT publication's date).
