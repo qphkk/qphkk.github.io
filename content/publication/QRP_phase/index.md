@@ -3,8 +3,8 @@ title: "Quantum reservoir probing of quantum phase transitions"
 authors:
 - admin
 - Yukitoshi Motome
-date: "2024-02-11T00:00:00Z"
-doi: "10.48550/arXiv.2402.07097"
+date: "2025-04-25T00:00:00Z"
+doi: "10.1038/s41467-025-58751-0"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -12,11 +12,11 @@ doi: "10.48550/arXiv.2402.07097"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["preprint"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv"
-publication_short: "arXiv preprint arXiv:2402.07097"
+publication: "Nature Communications"
+publication_short: "Nat. Commun."
 
 abstract: Quantum phase transitions are highly remarkable phenomena manifesting in quantum many-body systems. However, their precise identifications in equilibrium systems pose significant theoretical and experimental challenges. Thus far, nonequilibrium detection protocols utilizing global quantum quenches have been proposed, yet the real-time signatures of these transitions are imprinted in intricate spatiotemporal correlations, compromising the simplicity and versatility of the protocols. Here, we propose a framework for dynamical detection of quantum phase transitions based on local quantum quenches. While the resultant dynamics are influenced by both the local quench operation and the intrinsic dynamics of the quantum system, the effects of the former are exclusively extracted through the cutting-edge framework called quantum reservoir probing (QRP). We illustrate that the impacts of the local quenches vary across different quantum phases, and are subdued by intrinsic fluctuations amplified in proximity to quantum critical points. Consequently, the QRP can detect quantum phase transitions in the paradigmatic integrable and nonintegrable quantum systems, all while utilizing single-site operators. Furthermore, we also show that topological quantum phase transitions can be detected using the identical framework. The broad applicability of the QRP, along with its experimental feasibility and design flexibility, highlights its universal effectiveness in identifying various quantum phase transitions.
 
