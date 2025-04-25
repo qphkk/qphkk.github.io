@@ -1,5 +1,5 @@
 ---
-title: PRESS RELEASE, University of Tokyo 
+title: PRESS RELEASE, University of Tokyo, "Thermally-robust spatiotemporal parallel reservoir computing by frequency filtering in frustrated magnets"
 summary: 
 tags:
   - English
