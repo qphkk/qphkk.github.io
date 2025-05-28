@@ -77,7 +77,7 @@ sections:
           company: Information-technology Promotion Agency, Japan (IPA)
           company_url: https://www.ipa.go.jp/en/index.html
           date_end: '2026-02-28'
-          date_start: '2025-05-01'
+          date_start: '2025-06-01'
           description: |2-
             Research project for the [hybrid quantum reservoir computing](https://www.ipa.go.jp/jinzai/mitou/target/2025_reservoir/gaiyou-kj-2.html)
 
