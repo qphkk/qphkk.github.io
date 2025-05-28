@@ -73,6 +73,15 @@ sections:
           date_end: '2027-03-31'
           date_start: '2024-08-01'
           description: Advanced AI Talent Development to Lead the Next-Generation Intelligent Society ([BOOST NAIS](https://spring-gx.adm.s.u-tokyo.ac.jp/en/boost/))
+        - title: Mitou Target Program
+          company: Information-technology Promotion Agency, Japan (IPA)
+          company_url: https://www.ipa.go.jp/en/index.html
+          date_end: '2026-02-28'
+          date_start: '2025-06-01'
+          description: |2-
+            Research project for the [hybrid quantum reservoir computing](https://www.ipa.go.jp/jinzai/mitou/target/2025_reservoir/gaiyou-kj-2.html)
+
+            Project Manager: Prof. Yuji Kawai
         - title: JSPS research fellowships for young scientists (DC1)
           company: Japan Society for the Promotion of Science
           company_url: https://www.jsps.go.jp/english/
