@@ -1,5 +1,5 @@
 ---
-title: Quantum reservoir probing:an inverse paradigm of reservoir computing for exploring quantum many-body physics @ Hatano lab.
+title: "Quantum reservoir probing: an inverse paradigm of reservoir computing for exploring quantum many-body physics @ Hatano lab."
 
 event: Seminar at Hatano laboratory in UTokyo
 event_url: http://hatano-lab.iis.u-tokyo.ac.jp/seminar-j.html#5
