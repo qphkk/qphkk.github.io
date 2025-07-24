@@ -239,6 +239,11 @@ sections:
         - title: Visiting Student @ Technical University of Munich
           company: Frank Pollmann group
           company_url: https://www.ph.nat.tum.de/en/cmt/about-us/
+          date_end: '2025-07-20'
+          date_start: '2024-07-31'
+        - title: Visiting Student @ Technical University of Munich
+          company: Frank Pollmann group
+          company_url: https://www.ph.nat.tum.de/en/cmt/about-us/
           date_end: '2024-12-06'
           date_start: '2024-09-29'
         - title: Teaching Assistant (Statistical Mechanics)
