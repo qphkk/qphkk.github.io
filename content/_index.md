@@ -235,7 +235,12 @@ sections:
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
-      items:
+      items:      
+        - title: Internship @ IBM Research Tokyo
+          company: IBM Research
+          company_url: https://research.ibm.com/labs/tokyo
+          date_end: '2025-09-02'
+          date_start: '2024-12-18'
         - title: Visiting Student @ Technical University of Munich
           company: Frank Pollmann group
           company_url: https://www.ph.nat.tum.de/en/cmt/about-us/
