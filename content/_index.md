@@ -181,6 +181,12 @@ sections:
       date_format: Jan 2006
       items:
         - date_end: 
+          date_start: '2025-10-20'
+          organization: The Physical Society of Japan
+          organization_url: https://www.jps.or.jp/activities/awards/gakusei/2025a_student_presentation_award.php#r1
+          description: Student Presentation Award of the Physical Society of Japan, 80th Annual Meeting (2025)
+          title: Student Presentation Award of the Physical Society of Japan
+        - date_end: 
           date_start: '2024-09-09'
           organization: MERIT-WINGS
           description: Best Poster Award, MERIT Camp 2024
