@@ -1,5 +1,5 @@
 ---
-title: "Edge of Many-Body Quantum Chaos in Quantum Reservoir Computing"
+title: "Edge of Many-Body Quantum Chaos in Quantum Reservoir Computing, accepted in PRL"
 authors:
 - admin
 - Yukitoshi Motome
