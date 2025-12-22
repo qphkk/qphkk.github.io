@@ -1,5 +1,5 @@
 ---
-title: "Edge of Many-Body Quantum Chaos in Quantum Reservoir Computing, accepted in PRL"
+title: "Edge of Many-Body Quantum Chaos in Quantum Reservoir Computing"
 authors:
 - admin
 - Yukitoshi Motome
@@ -16,7 +16,7 @@ publication_types: ["preprint"]
 
 # Publication name and optional abbreviated publication name.
 publication: "arXiv"
-publication_short: "arXiv:2506.17547"
+publication_short: "accepted in PRL, arXiv:2506.17547"
 
 abstract: Reservoir computing (RC) is a machine learning paradigm that harnesses dynamical systems as computational resources. In its quantum extension---quantum reservoir computing (QRC)---these principles are applied to quantum systems, whose rich dynamics broadens the landscape of information processing. In classical RC, optimal performance is typically achieved at the edge of chaos, the boundary between order and chaos. Here, we identify its quantum many-body counterpart using the QRC implemented on the celebrated Sachdev-Ye-Kitaev model. Our analysis reveals substantial performance enhancements near two distinct characteristic edges, a temporal boundary defined by the Thouless time, beyond which system dynamics is described by random matrix theory, and a parametric boundary governing the transition from integrable to chaotic regimes. These findings establish the edge of many-body quantum chaos as a fundamental design principle for QRC.
 
