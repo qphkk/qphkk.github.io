@@ -30,7 +30,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/pdf/2506.17547
+url_pdf: https://journals.aps.org/prl/pdf/10.1103/j2qj-vwcl
 url_code: ''
 url_dataset: ''
 url_poster: ''
