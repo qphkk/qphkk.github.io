@@ -1,5 +1,5 @@
 ---
-title: Phys. Org. 'Quantum reservoir computing peaks at the edge of many-body chaos, study suggests'
+title: 'Phys. Org. "Quantum reservoir computing peaks at the edge of many-body chaos, study suggests"'
 summary: 
 tags:
   - English
