@@ -251,7 +251,7 @@ sections:
           company: Frank Pollmann group
           company_url: https://www.ph.nat.tum.de/en/cmt/about-us/
           date_end: '2025-07-31'
-          date_start: '2024-07-20'
+          date_start: '2025-07-20'
         - title: Visiting Student @ Technical University of Munich
           company: Frank Pollmann group
           company_url: https://www.ph.nat.tum.de/en/cmt/about-us/
