@@ -19,7 +19,7 @@ sections:
       text: |-
         {{< news >}}
     design:
-      columns: '2'
+      columns: '1'
   - block: experience
     id: cv
     content:
