@@ -1,7 +1,7 @@
 - **2026-03-31** I presented in [Q-LEAP online seminar](https://qleap-qai.jp/seminar/guidance/post-3204867.html).
   - 小林海翔, "量子カオスの縁における量子リザバーコンピューティング"
 - **2026-03-24** I gave a presentation at the JPS Spring Meeting.
-  - [24aL2-10] 小林海翔, Benjamin Sappler, Frank Pollmann, "Holographic Isometric Tensor Networkによる1次元量子多体系の表現"
+  - [24aL2-10] 小林海翔, B. Sappler, F. Pollmann, "Holographic Isometric Tensor Networkによる1次元量子多体系の表現"
 - **2026-03-10** Mr. Truman Ng Yu visited us.
 - **2026-02-28** My project under IPA's MITOU Target Program was completed.
 - **2026-02-22** [Phys.org](https://phys.org/news/2026-02-quantum-reservoir-peaks-edge-body.html) featured our research.
