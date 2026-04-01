@@ -1,3 +1,13 @@
-- **2026-04-01** News欄を独立ファイル化しました。
-- **2026-03-24** 日本物理学会2026年春季大会で発表しました。
-- **2025-10-20** Student Presentation Award of the Physical Society of Japan を受賞しました。
+- **2026-03-31** I presented in [Q-LEAP online seminar](https://qleap-qai.jp/seminar/guidance/post-3204867.html).
+  - 小林海翔, "量子カオスの縁における量子リザバーコンピューティング"
+- **2026-03-24** I gave a presentation at the JPS Spring Meeting.
+  - [24aL2-10] 小林海翔, Benjamin Sappler, Frank Pollmann, "Holographic Isometric Tensor Networkによる1次元量子多体系の表現"
+- **2026-03-10** Mr. Truman Ng Yu visited us.
+- **2026-02-28** My project under IPA's MITOU Target Program was completed.
+- **2026-02-22** [Phys.org](https://phys.org/news/2026-02-quantum-reservoir-peaks-edge-body.html) featured our research.
+- **2026-02-16** [NIKKEI Tech Foresight](https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC060DI0W6A200C2000000)に研究成果が取り上げられました。
+- **2026-02-03** [マイナビニュース](https://news.mynavi.jp/techplus/article/20260203-4075348/)に研究成果が取り上げられました。
+- **2026-01-29** Prof. Zhaokai Li visited us.
+- **2026-01-28** 研究成果の[プレスリリース](https://www.t.u-tokyo.ac.jp/press/pr2026-01-29-001)を出しました。
+- **2026-01-28** New paper was published in [Phys. Rev. Lett.](https://journals.aps.org/prl/abstract/10.1103/j2qj-vwcl).
+- **2026-01-01** News section was launched.
