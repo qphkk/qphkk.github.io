@@ -11,6 +11,15 @@ sections:
       title: About me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+  - block: markdown
+    id: news
+    content:
+      title: News
+      subtitle: ''
+      text: |-
+        {{< news >}}
+    design:
+      columns: '2'
   - block: experience
     id: cv
     content:
@@ -52,15 +61,6 @@ sections:
               Director: Prof. Eiji Saitoh
               
               Thesis: 逆スピンホール効果による磁化状態トモグラフィ (Magnetization state tomography by inverse spin-Hall effect) ([Outstanding Bachelor Thesis Award](https://www.ap.t.u-tokyo.ac.jp/themes/ap_t_u-tokyo/campus/pdf/2021/2021B.pdf))
-    design:
-      columns: '2'
-  - block: markdown
-    id: news
-    content:
-      title: News
-      subtitle: ''
-      text: |-
-        {{< news >}}
     design:
       columns: '2'
   - block: experience
