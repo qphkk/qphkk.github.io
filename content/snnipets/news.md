@@ -1,0 +1,3 @@
+- **2026-04-01** News欄を独立ファイル化しました。
+- **2026-03-24** 日本物理学会2026年春季大会で発表しました。
+- **2025-10-20** Student Presentation Award of the Physical Society of Japan を受賞しました。

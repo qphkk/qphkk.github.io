@@ -1,0 +1,3 @@
+{{ with readFile "content/snippets/news.md" }}
+  {{ . | markdownify }}
+{{ end }}
