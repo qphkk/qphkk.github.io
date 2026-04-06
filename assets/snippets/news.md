@@ -8,4 +8,5 @@
 - **2026-02-03** [マイナビニュース](https://news.mynavi.jp/techplus/article/20260203-4075348/)に研究成果が取り上げられました。
 - **2026-01-28** 研究成果の[プレスリリース](https://www.t.u-tokyo.ac.jp/press/pr2026-01-29-001)を出しました。
 - **2026-01-28** New paper was published in [Phys. Rev. Lett.](https://journals.aps.org/prl/abstract/10.1103/j2qj-vwcl).
+  - Kaito Kobayashi and Yukitoshi Motome, Phys. Rev. Lett. **136**, 040602 (2026).
 - **2026-01-01** News section was launched.
