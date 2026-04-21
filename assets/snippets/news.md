@@ -1,4 +1,4 @@
-- **2026-04-21** I was awared [Student Presentation Award of the Physical Society of Japan (Division 11)](https://www.jps.or.jp/activities/awards/gakusei/2026_student_presentation_award.php#r11).
+- **2026-04-21** I was awarded the [Student Presentation Award of the Physical Society of Japan (Division 11)](https://www.jps.or.jp/activities/awards/gakusei/2026_student_presentation_award.php#r11).
 - **2026-03-31** I presented in [Q-LEAP online seminar](https://qleap-qai.jp/seminar/guidance/post-3204867.html).
   - 小林海翔, "量子カオスの縁における量子リザバーコンピューティング"
 - **2026-03-24** I gave a presentation at the JPS Spring Meeting.
