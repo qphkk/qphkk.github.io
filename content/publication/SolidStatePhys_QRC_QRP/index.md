@@ -1,10 +1,10 @@
 ---
-title: "Edge of Many-Body Quantum Chaos in Quantum Reservoir Computing"
+title: "量子リザバーコンピューティングと量子リザバープロービング ―量子多体系を用いたAlと，それを用いた量子多体物理の逆探求―"
 authors:
 - admin
 - Yukitoshi Motome
 date: "2026-06-15T00:00:00Z"
-doi: "10.1103/j2qj-vwcl"
+doi: "https://www.agne.co.jp/kotaibutsuri/kota1061.html#no724"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -31,7 +31,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.agne.co.jp/kotaibutsuri/kota1061.html#no724
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
