@@ -1,15 +1,15 @@
-- **2026-06-15** Our review article was published in [固体物理 6月号](https://www.agne.co.jp/kotaibutsuri/kota1061.html#no724).
+- **2026-06-15**: Our review article was published in [固体物理 6月号](https://www.agne.co.jp/kotaibutsuri/kota1061.html#no724).
   - 小林海翔、求幸年、「量子リザバーコンピューティングと量子リザバープロービング ―量子多体系を用いたAlと，それを用いた量子多体物理の逆探求―」
-- **2026-04-21** I was awarded the [Student Presentation Award of the Physical Society of Japan (Division 11)](https://www.jps.or.jp/activities/awards/gakusei/2026_student_presentation_award.php#r11).
-- **2026-03-31** I presented in [Q-LEAP online seminar](https://qleap-qai.jp/seminar/guidance/post-3204867.html).
+- **2026-04-21**: I was awarded the [Student Presentation Award of the Physical Society of Japan (Division 11)](https://www.jps.or.jp/activities/awards/gakusei/2026_student_presentation_award.php#r11).
+- **2026-03-31**: I presented in [Q-LEAP online seminar](https://qleap-qai.jp/seminar/guidance/post-3204867.html).
   - 小林海翔, "量子カオスの縁における量子リザバーコンピューティング"
-- **2026-03-24** I gave a presentation at the JPS Spring Meeting.
+- **2026-03-24**: I gave a presentation at the JPS Spring Meeting.
   - [24aL2-10] 小林海翔, B. Sappler, F. Pollmann, "Holographic Isometric Tensor Networkによる1次元量子多体系の表現"
-- **2026-02-28** My project under IPA's MITOU Target Program was completed.
-- **2026-02-22** [Phys.org](https://phys.org/news/2026-02-quantum-reservoir-peaks-edge-body.html) featured our research.
-- **2026-02-16** [NIKKEI Tech Foresight](https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC060DI0W6A200C2000000)に研究成果が取り上げられました。
-- **2026-02-03** [マイナビニュース](https://news.mynavi.jp/techplus/article/20260203-4075348/)に研究成果が取り上げられました。
-- **2026-01-28** 研究成果の[プレスリリース](https://www.t.u-tokyo.ac.jp/press/pr2026-01-29-001)を出しました。
-- **2026-01-28** Our paper was published in [Phys. Rev. Lett.](https://journals.aps.org/prl/abstract/10.1103/j2qj-vwcl).
+- **2026-02-28**: My project under IPA's MITOU Target Program was completed.
+- **2026-02-22**: [Phys.org](https://phys.org/news/2026-02-quantum-reservoir-peaks-edge-body.html) featured our research.
+- **2026-02-16**: [NIKKEI Tech Foresight](https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC060DI0W6A200C2000000)に研究成果が取り上げられました。
+- **2026-02-03**: [マイナビニュース](https://news.mynavi.jp/techplus/article/20260203-4075348/)に研究成果が取り上げられました。
+- **2026-01-28**: 研究成果の[プレスリリース](https://www.t.u-tokyo.ac.jp/press/pr2026-01-29-001)を出しました。
+- **2026-01-28**: Our paper was published in [Phys. Rev. Lett.](https://journals.aps.org/prl/abstract/10.1103/j2qj-vwcl).
   - Kaito Kobayashi and Yukitoshi Motome, Phys. Rev. Lett. **136**, 040602 (2026).
-- **2026-01-01** News section was launched.
+- **2026-01-01**: News section was launched.
