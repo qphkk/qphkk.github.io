@@ -1,4 +1,5 @@
 - **2026-06-15** Our review article was published in [固体物理 6月号](https://www.agne.co.jp/kotaibutsuri/kota1061.html#no724).
+  - 小林海翔、求幸年、「量子リザバーコンピューティングと量子リザバープロービング ―量子多体系を用いたAlと，それを用いた量子多体物理の逆探求―」
 - **2026-04-21** I was awarded the [Student Presentation Award of the Physical Society of Japan (Division 11)](https://www.jps.or.jp/activities/awards/gakusei/2026_student_presentation_award.php#r11).
 - **2026-03-31** I presented in [Q-LEAP online seminar](https://qleap-qai.jp/seminar/guidance/post-3204867.html).
   - 小林海翔, "量子カオスの縁における量子リザバーコンピューティング"
