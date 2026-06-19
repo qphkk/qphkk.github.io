@@ -31,8 +31,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url: "https://www.agne.co.jp/kotaibutsuri/kota1061.html#no724"
-url_pdf: ''
+url_pdf: 'https://www.agne.co.jp/kotaibutsuri/kota1061.html#no724'
 url_code: ''
 url_dataset: ''
 url_poster: ''
