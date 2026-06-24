@@ -194,13 +194,13 @@ sections:
           organization: The Physical Society of Japan
           organization_url: https://www.jps.or.jp/activities/awards/gakusei/2026_student_presentation_award.php#r11
           description: Student Presentation Award of the Physical Society of Japan, Division 11 (Fundamental Theory of Condensed Matter Physics, Statistical Mechanics, Fluid Dynamics, Applied Mathematics, Socio- and Econophysics), Spring Meeting (2026)
-          title: Student Presentation Award of the Physical Society of Japan (Devision 11)
+          title: Student Presentation Award of the Physical Society of Japan (Division 11)
         - date_end: 
           date_start: '2025-10-20'
           organization: The Physical Society of Japan
           organization_url: https://www.jps.or.jp/activities/awards/gakusei/2025a_student_presentation_award.php#r1
           description: Student Presentation Award of the Physical Society of Japan, Division 1 (Atomic and Molecular Physics, Quantum Electronics, Radiation), 80th Annual Meeting (2025)
-          title: Student Presentation Award of the Physical Society of Japan (Devision 1)
+          title: Student Presentation Award of the Physical Society of Japan (Division 1)
         - date_end: 
           date_start: '2024-09-09'
           organization: MERIT-WINGS
