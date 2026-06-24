@@ -16,7 +16,7 @@ publication_types: ["review"]
 
 # Publication name and optional abbreviated publication name.
 publication: "固体物理"
-publication_short: "固体物理 最新号：2026年6月号"
+publication_short: "固体物理 2026年6月号"
 
 abstract: 'Review of QRC and QRP'
 
