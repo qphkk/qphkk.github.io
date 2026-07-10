@@ -1,5 +1,5 @@
 - **2026-07-09**: I uploaded a new preprint.
-  - Kaito Kobayashi, [arXiv:2607.08761](https://arxiv.org/abs/2607.08761v1). 
+  - Kaito Kobayashi, Irreducible Geometry of Higher-Order Correlator Families, [arXiv:2607.08761](https://arxiv.org/abs/2607.08761v1). 
 - **2026-07-03** to **2026-08-29**: I am visiting Frank Pollmann's group at the Technical University of Munich.
 - **2026-06-15**: Our review article was published in [固体物理 6月号](https://www.agne.co.jp/kotaibutsuri/kota1061.html#no724).
   - 小林海翔、求幸年、「量子リザバーコンピューティングと量子リザバープロービング ―量子多体系を用いたAlと，それを用いた量子多体物理の逆探求―」
@@ -14,5 +14,5 @@
 - **2026-02-03**: [マイナビニュース](https://news.mynavi.jp/techplus/article/20260203-4075348/)に研究成果が取り上げられました。
 - **2026-01-28**: 研究成果の[プレスリリース](https://www.t.u-tokyo.ac.jp/press/pr2026-01-29-001)を出しました。
 - **2026-01-28**: Our paper was published in [Phys. Rev. Lett.](https://journals.aps.org/prl/abstract/10.1103/j2qj-vwcl).
-  - Kaito Kobayashi and Yukitoshi Motome, Phys. Rev. Lett. **136**, 040602 (2026).
+  - Kaito Kobayashi and Yukitoshi Motome, Edge of Many-Body Quantum Chaos in Quantum Reservoir Computing, Phys. Rev. Lett. **136**, 040602 (2026).
 - **2026-01-01**: News section was launched.
