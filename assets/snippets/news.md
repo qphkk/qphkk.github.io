@@ -1,3 +1,5 @@
+- **2026-07-09**: I uploaded a new preprint.
+  - Kaito Kobayashi, [arXiv:2607.08761](https://arxiv.org/abs/2607.08761v1). 
 - **2026-07-03** to **2026-08-29**: I am visiting Frank Pollmann's group at the Technical University of Munich.
 - **2026-06-15**: Our review article was published in [固体物理 6月号](https://www.agne.co.jp/kotaibutsuri/kota1061.html#no724).
   - 小林海翔、求幸年、「量子リザバーコンピューティングと量子リザバープロービング ―量子多体系を用いたAlと，それを用いた量子多体物理の逆探求―」
