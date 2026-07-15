@@ -1,3 +1,4 @@
+- **2026-07-15**: I gave a seminar at TU Ilmenau.
 - **2026-07-09**: I uploaded a new preprint.
   - Kaito Kobayashi, Irreducible Geometry of Higher-Order Correlator Families, [arXiv:2607.08761](https://arxiv.org/abs/2607.08761v1). 
 - **2026-07-03** to **2026-08-29**: I am visiting Frank Pollmann's group at the Technical University of Munich.
