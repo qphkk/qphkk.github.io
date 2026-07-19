@@ -29,10 +29,12 @@ bio:
 
 # Interests to show in About widget
 interests:
-  - Quantum reservoir probing
-  - Dynamics of quantum information
-  - Reservoir computing
+  - Condensed matter physics
+  - Quantum information
+  - Quantum reservoir computing
   - Tensor network
+  - Machine learning
+  - Quantum algorithm
 
 # Education to show in About widget
 education:
