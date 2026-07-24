@@ -260,8 +260,8 @@ sections:
         - title: Visiting Student @ Technical University of Munich
           company: Frank Pollmann group
           company_url: https://www.ph.nat.tum.de/en/cmt/about-us/
-          date_end: '2026-07-03'
-          date_start: '2026-08-29'
+          date_end: '2026-08-29'
+          date_start: '2026-07-03'
         - title: Internship @ IBM Research Tokyo
           company: IBM Research
           company_url: https://research.ibm.com/labs/tokyo
