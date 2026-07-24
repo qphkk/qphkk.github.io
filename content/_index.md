@@ -256,7 +256,12 @@ sections:
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
-      items:      
+      items:
+        - title: Visiting Student @ Technical University of Munich
+          company: Frank Pollmann group
+          company_url: https://www.ph.nat.tum.de/en/cmt/about-us/
+          date_end: '2026-07-03'
+          date_start: '2026-08-29'
         - title: Internship @ IBM Research Tokyo
           company: IBM Research
           company_url: https://research.ibm.com/labs/tokyo
