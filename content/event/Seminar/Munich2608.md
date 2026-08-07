@@ -9,7 +9,7 @@ summary: Special CMT seminar
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2026-07-15T10:00:00Z'
+date: '2026-08-07T10:00:00Z'
 all_day: true
 
 
