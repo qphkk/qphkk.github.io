@@ -1,3 +1,6 @@
+- **2026-09-15**: Presentations at the JPS Spring Meeting.
+  - [16aL1222-11] 小林海翔「高次相関子族の幾何」
+  - [15aL1214-6] 天野元揮，小林海翔，求幸年「量子群対称性による量子多体スカーの構成」
 - **2026-08-07**: I gave a seminar at TU Munich.
 - **2026-07-15**: I gave a seminar at TU Ilmenau.
 - **2026-07-09**: I uploaded a new preprint.
