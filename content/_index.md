@@ -190,16 +190,22 @@ sections:
       date_format: Jan 2006
       items:
         - date_end: 
+          date_start: '2026-10-27'
+          organization: The Physical Society of Japan
+          organization_url: http://www.r11.div.jps.or.jp/wakate.html
+          description: Young Scientist Award of the Physical Society of Japan (Division 11) (2027)
+          title: Young Scientist Award of the Physical Society of Japan (Division 11)
+        - date_end: 
           date_start: '2026-04-21'
           organization: The Physical Society of Japan
           organization_url: https://www.jps.or.jp/activities/awards/gakusei/2026_student_presentation_award.php#r11
-          description: Student Presentation Award of the Physical Society of Japan, Division 11 (Fundamental Theory of Condensed Matter Physics, Statistical Mechanics, Fluid Dynamics, Applied Mathematics, Socio- and Econophysics), Spring Meeting (2026)
+          description: Student Presentation Award of the Physical Society of Japan, Division 11, Spring Meeting (2026)
           title: Student Presentation Award of the Physical Society of Japan (Division 11)
         - date_end: 
           date_start: '2025-10-20'
           organization: The Physical Society of Japan
           organization_url: https://www.jps.or.jp/activities/awards/gakusei/2025a_student_presentation_award.php#r1
-          description: Student Presentation Award of the Physical Society of Japan, Division 1 (Atomic and Molecular Physics, Quantum Electronics, Radiation), 80th Annual Meeting (2025)
+          description: Student Presentation Award of the Physical Society of Japan, Division 1, 80th Annual Meeting (2025)
           title: Student Presentation Award of the Physical Society of Japan (Division 1)
         - date_end: 
           date_start: '2024-09-09'

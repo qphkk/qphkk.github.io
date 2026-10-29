@@ -1,3 +1,4 @@
+- **2026-10-27**: I was awarded the [Young Scientist Award of the Physical Society of Japan (Division 11)](http://www.r11.div.jps.or.jp/wakate.html).
 - **2026-09-15**: Presentations at the JPS Meeting.
   - [16aL1222-11] 小林海翔「高次相関子族の幾何」
   - [15aL1214-6] 天野元揮，小林海翔，求幸年「量子群対称性による量子多体スカーの構成」
