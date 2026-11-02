@@ -192,7 +192,7 @@ sections:
         - date_end: 
           date_start: '2026-10-27'
           organization: The Physical Society of Japan
-          organization_url: http://www.r11.div.jps.or.jp/wakate.html
+          organization_url: https://www.jps.or.jp/activities/awards/jusyosya/wakate2027.php#r11
           description: Young Scientist Award of the Physical Society of Japan (Division 11) (2027)
           title: Young Scientist Award of the Physical Society of Japan (Division 11)
         - date_end: 
