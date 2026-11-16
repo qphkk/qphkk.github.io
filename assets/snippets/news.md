@@ -1,3 +1,5 @@
+- **2026-11-16**: A new preprint is uploaded.
+  - Saud Čindrak, Kaito Kobayashi, Lara Giebeler, and Kathy Lüdge, Data re-uploading in Quantum Reservoir Computing, [arXiv:2611.17913](https://arxiv.org/abs/2611.17913).
 - **2026-10-27**: I was awarded the [Young Scientist Award of the Physical Society of Japan (Division 11)](https://www.jps.or.jp/activities/awards/jusyosya/wakate2027.php#r11).
 - **2026-09-15**: Presentations at the JPS Meeting.
   - [16aL1222-11] 小林海翔「高次相関子族の幾何」
