@@ -26,15 +26,16 @@ abstract: "Data re-uploading enhances the learnable function space of parameteri
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Tensor Networks
+- Quantum Reservoir Computing
+- Reservoir Computing
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/pdf/2512.11967
+url_pdf: https://arxiv.org/pdf/2611.17913
 url_code: ''
-url_dataset: https://zenodo.org/records/17907383
+url_dataset: 
 url_poster: ''
 url_project: ''
 url_slides: ''
